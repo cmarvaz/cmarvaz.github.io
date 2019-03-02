@@ -83,7 +83,7 @@ author:
   bio              : "Post Doc Research Associate at CTIO. DECam Support astronomer."
   location         : "CTIO"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
