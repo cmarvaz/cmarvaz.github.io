@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Clara Martínez-Vázquez / Site Title"
+title                    : "Clara Martínez-Vázquez"
 title_separator          : "-"
 name                     : &name "Clara Martínez-Vázquez"
 description              : &description "personal description"
