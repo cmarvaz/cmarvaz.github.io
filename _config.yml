@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Clara Martínez-Vázquez"
-  avatar           : "profile.png"
+  avatar           : ![des](http://www.science.tamu.edu/img/articles/CTIO_Fermilab.jpg) #"profile.png"
   bio              : "Post Doc Research Associate at CTIO. DECam Support astronomer."
   location         : "CTIO"
   employer         :
