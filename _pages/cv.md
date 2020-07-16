@@ -22,8 +22,7 @@ Work experience
 * Oct 2017 - today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
   * Advisor: Dr. S. R. Heathcote
-  * Mentor: Dr. A. Walker 
-
+  
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Advisor: Dr. G. Fiorentino
 
