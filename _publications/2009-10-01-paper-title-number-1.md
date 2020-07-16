@@ -3,10 +3,10 @@ title: "Variable stars in Local Group Galaxies - I. Tracing the early chemical e
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/abstract'
-citation: '![Martínez-Vázquez, Clara E. et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/exportcitation)'
+date: 2015-12-01
+venue: 'MNRAS'
+paperurl: '[paper url here](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/abstract)'
+citation: '[Martínez-Vázquez, Clara E. et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/exportcitation)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
