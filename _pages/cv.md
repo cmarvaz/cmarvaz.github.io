@@ -76,13 +76,7 @@ My main scientific interest –the study of variable stellar populations– requ
 I have experience in both photometric and spectroscopic observing runs in the Roque de los Muchachos Observatory (La Palma), Izaña Observatory (Tenerife), and Cerro Tololo Inter-American Observatory (Chile). I personally executed observing runs with WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera).
 
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab CTIO Observatory.
+* Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
