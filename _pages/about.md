@@ -18,4 +18,4 @@ I am a member of several international collaborations: [DES](https://www.darkene
 
 Since October 2017, I am part of the Scientific Support Team of the Dark Energy Camera (DECam) at the CTIO-4m Blanco telescope and I continue my research focusing, in particular, on the use of variable stars as standard candles and as probes of the evolution of Local Group galaxies.
 
-<\div>
+</div>
