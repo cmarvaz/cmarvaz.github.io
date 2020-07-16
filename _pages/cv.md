@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+(Updated on July, 2020)
 
 Education
 ======
@@ -17,7 +19,7 @@ Education
 
 Work experience
 ======
-* Oct 2017-today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
+* Oct 2017 - today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
   * Advisor: Dr. S. R. Heathcote
   * Mentor: Dr. A. Walker 
@@ -51,7 +53,7 @@ Skills
 * Astronomical software
   * IRAF, DS9, Topcat, Stilts, Aladin, ...
 
-Main Science interests
+Main Science Interests
 =======================
 stars: variables: RR Lyrae, Cepheids, delta Scuti – galaxies: evolution, stellar content – star clusters – Local Group
 
