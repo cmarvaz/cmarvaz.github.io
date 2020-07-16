@@ -11,7 +11,7 @@ redirect_from:
  
 I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American Observatory (CTIO), a division of the NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIR Lab). My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti) in Local Group dwarf galaxies.
 
-I am a member of several international collaborations: [DES](https://www.darkenergysurvey.org/) the Dark Energy Survey, [DELVE](https://delve-survey.github.io/) (the DECam Local Volume Exploration survey), ISLAndS (Initial Star formation and Lifetimes of Andromeda Satellites). Also, I am involved in smaller (but not less important) international collaborations foused on galactic-archeology and on the study and characterization of variable stars in the Local Group galaxies and stellar clusters.
+I am a member of several international collaborations: [DES](https://www.darkenergysurvey.org/) (Dark Energy Survey), [DELVE](https://delve-survey.github.io/) (DECam Local Volume Exploration survey), ISLAndS (Initial Star formation and Lifetimes of Andromeda Satellites). Also, I am involved in smaller (but not less important) international collaborations foused on galactic-archeology and on the study and characterization of variable stars in the Local Group galaxies and stellar clusters.
 
 Since October 2017 up until the date, I am part of the Scientific Support Team of the Dark Energy Camera (DECam) at the CTIO-4m Blanco telescope and I continue my research focusing, in particular, on the use of variable stars as standard candles and as probes of the evolution of Local Group galaxies.
   
