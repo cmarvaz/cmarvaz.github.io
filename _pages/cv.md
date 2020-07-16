@@ -17,34 +17,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 * Oct 2017-today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
   * Advisor: Dr. S. R. Heathcote
   * Mentor: Dr. A. Walker 
 
-* Apr 2017-Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
+* Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Advisor: Dr. G. Fiorentino
 
-* Sept 2013-Sept 2016: Ph.D. studentship (“residente”) at the Instituto de Astrofísica de Canarias (Spain)
+* Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at the Instituto de Astrofísica de Canarias (Spain)
   * Thesis: Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars 
   * Supervisor: Dr. M. Monelli. 
   * Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
 
-* Jul 2012-Aug 2013: Summer student grant at the Instituto de Astrofísica de Canarias (Spain)
+* Jul 2012 - Aug 2013: Summer student grant at the Instituto de Astrofísica de Canarias (Spain)
   * Project: Chemical Composition of Open Clusters: Variations of the CN and CH band strengths 
   * Supervisor: Dr. R. Carrera
   
-* Sept 2011-Jul 2012: Student grant in the Department of Physics at the Universidad de Extremadura (Spain) 
+* Sept 2011 - Jul 2012: Student grant in the Department of Physics at the Universidad de Extremadura (Spain) 
   * Project: Influence of a interstitial fluid over the transport coefficients of a dilute granular gas 
   * Supervisor: Prof. V. Garzó
 
@@ -54,9 +44,12 @@ Skills
   * Spanish (mother tongue)
   * English (fluent)
   * Italian (good)
-* Operating systems: Unix, Linux, MacOS, Window 
-* Programming Languages: IDL, Python, Octave/Matlab, SuperMongo, Fortran
-* Astronomical software: IRAF, DS9, Topcat, Stilts, Aladin, ...
+* Operating systems
+  * Unix, Linux, MacOS, Window 
+* Programming Languages
+  * IDL, Python, Octave/Matlab, SuperMongo, Fortran
+* Astronomical software
+  * IRAF, DS9, Topcat, Stilts, Aladin, ...
 
 Main Science interests
 =======================
