@@ -2,7 +2,7 @@
 title: "Variable stars in Local Group Galaxies - I. Tracing the early chemical enrichment and radial gradients in the Sculptor dSph with RR Lyrae stars"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2015-12-01
 venue: 'MNRAS'
 paperurl: 'https://academic.oup.com/mnras/article/454/2/1509/1049432'
