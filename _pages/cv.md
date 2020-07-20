@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astrophysics at the Instituto de Astrofísica de Canarias/Universidad de La Laguna (Spain), 2016
-* M.S. in Astrophysics at the Universidad de La Laguna (Spain), 2014
-* B.S. in Physics at the Universidad de Extremadura (Spain), 2012
+* Ph.D in Astrophysics at Instituto de Astrofísica de Canarias/Universidad de La Laguna (Spain), 2016
+* M.S. in Astrophysics at Universidad de La Laguna (Spain), 2014
+* B.S. in Physics at Universidad de Extremadura (Spain), 2012
 
 Work experience
 ======
