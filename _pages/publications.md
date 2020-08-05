@@ -11,8 +11,11 @@ and <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AN
 
 <img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" alt="ads" width="100"/>
 
-#First Author Publications
-
+<head>
+  <title>First Author Publications</title>
+</head>
+<body>
+  
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
