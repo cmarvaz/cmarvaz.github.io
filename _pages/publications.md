@@ -14,7 +14,6 @@ and <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AN
 <head>
   <title>First Author Publications</title>
 </head>
-<body>
   
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
