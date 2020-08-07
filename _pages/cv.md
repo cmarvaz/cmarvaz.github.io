@@ -17,7 +17,7 @@ Education
 * M.S. in Astrophysics at Universidad de La Laguna (Spain), 2014
 * B.S. in Physics at Universidad de Extremadura (Spain), 2012
 
-Work experience
+Work Experience
 ======
 * Oct 2017 - today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
@@ -69,11 +69,30 @@ First author publications:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Seminars
 ======
+
+Contributed Talks and Seminars  
+---------------------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Meetings Organization 
+---------------------
+<ul>
+  <li> <p> Member of the Local Organizing Committee of the meeting <em> DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies </em> 
+  held in Tucson (Arizona) in 21-22 May 2018 </p>
+</ul>
+
+Listener
+--------
+<ul>
+  <li> <p> <em> ESO Conference: H0, Assessing Uncertainties in Hubble’s Constant Across the Universe</em>, 22-26 June 2020, Online </p> </li>
+  <li> <p> <em> Workshop Data Science ULS: Introducción Práctica a Herramientas Computacionales para Ciencias Intensivas en Datos</em>, 4-6 Dec 2017, La Serena (Chile) </p> </li>
+  <li> <p> <em> Workshop ADONI 2017: The Adaptive Optics in Astronomy in Italy</em>, 10-12 Apr 2017, Padova (Italy) </p> </li>
+</ul>
+
 
 Observational Expertise
 =======================
