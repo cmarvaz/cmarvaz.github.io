@@ -16,7 +16,7 @@ I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American 
 </div>
 
 <div style="text-align: justify"> 
-I am a member of several international collaborations: <a href="https://www.darkenergysurvey.org/">DES</a> (Dark Energy Survey), <a href="https://delve-survey.github.io/">DELVE</a> (DECam Local Volume Exploration survey) and ISLAndS (Initial Star formation and Lifetimes of Andromeda Satellites) among them. But I am also involved in smaller ones that focus on galactic-archeology and on the study and characterization of variable stars in the Local Group galaxies and stellar clusters.
+I am a member of several international collaborations: <a href="https://www.darkenergysurvey.org/">DES</a> (Dark Energy Survey), <a href="https://www.legacysurvey.org/decamls/">DECaLS</a> (Dark Energy Camera Legacy Survey), <a href="https://delve-survey.github.io/">DELVE</a> (DECam Local Volume Exploration survey), and ISLAndS (Initial Star formation and Lifetimes of Andromeda Satellites) among them. But I am also involved in smaller ones that focus on galactic-archeology and on the study and characterization of variable stars in the Local Group galaxies and stellar clusters.
 <p></p>
 </div>
 
