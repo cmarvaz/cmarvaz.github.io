@@ -17,6 +17,7 @@ Education
 * M.S. in Astrophysics at Universidad de La Laguna (Spain), 2014
 * B.S. in Physics at Universidad de Extremadura (Spain), 2012
 
+
 Work Experience
 ======
 * Oct 2017 - today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
@@ -39,6 +40,7 @@ Work Experience
   * Project: Influence of a interstitial fluid over the transport coefficients of a dilute granular gas 
   * Supervisor: Prof. V. Garzó
 
+
 Skills
 ======
 * Spoken languages: 
@@ -52,9 +54,11 @@ Skills
 * Astronomical software
   * IRAF, DS9, Topcat, Stilts, Aladin, ...
 
+
 Main Science Interests
 =======================
 stars: variables: RR Lyrae, Cepheids, delta Scuti – galaxies: evolution, stellar content – star clusters – Local Group
+
 
 Publications
 ======
@@ -69,6 +73,8 @@ First author publications:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+
 Talks and Seminars
 ======
 
@@ -100,7 +106,9 @@ My main scientific interest –the study of variable stellar populations– requ
 I have experience in both photometric and spectroscopic observing runs in the Roque de los Muchachos Observatory (La Palma), Izaña Observatory (Tenerife), and Cerro Tololo Inter-American Observatory (Chile). I personally executed observing runs with WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera).
 
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
-  
+
+
 Service and leadership
 ======
-* Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
+
+Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
