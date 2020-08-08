@@ -6,4 +6,4 @@ date: 2019-12-01
 venue: 'MNRAS'
 citation: 'Martínez-Vázquez, C. E., Vivas, A. K., Gurevich, M., et al. (DES Collaboration) 2019, MNRAS, 490, 2183'
 ---
-Use [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract){:target="_blank"} for full citation
+Use [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract) for full citation
