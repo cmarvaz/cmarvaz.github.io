@@ -59,44 +59,38 @@ Main Science Interests
 =======================
 stars: variables: RR Lyrae, Cepheids, delta Scuti – galaxies: evolution, stellar content – star clusters – Local Group
 
-
+<!--
 Publications
 ======
 See all my publications <a href="https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:magenta">here (ads)</a>:
 <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:blue">refereed</a>
 and <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22notrefereed%22)&q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:blue">non-refereed</a>.
-<!-- <img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" alt="ads" width="50"/> -->
-
+<!-- <img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" alt="ads" width="50"/> --> 
+<!--
 First author publications:
 ----------------------------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
-
+ --> 
+<!--
 Talks and Seminars
 ======
-
 Contributed Talks and Seminars  
 ---------------------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
 Meetings Organization 
 ---------------------
-
 * Member of the Local Organizing Committee of the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies* 
   held in Tucson (Arizona) in 21-22 May 2018 
-
 Listener
 --------
-
 * *ESO Conference: H0, Assessing Uncertainties in Hubble’s Constant Across the Universe*, 22-26 June 2020, Online
 * *Workshop Data Science ULS: Introducción Práctica a Herramientas Computacionales para Ciencias Intensivas en Datos*, 4-6 Dec 2017, La Serena (Chile) 
 * *Workshop ADONI 2017: The Adaptive Optics in Astronomy in Italy*, 10-12 Apr 2017, Padova (Italy)
-
+-->
 
 Observational Expertise
 =======================
