@@ -6,4 +6,4 @@ date: 2017-12-01
 venue: 'ApJ'
 citation: 'Martínez-Vázquez, C. E., Monelli, M., Bernard, E. J., et al. 2017, ApJ, 850, 137'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+ISLAnds+Project.+III.+Variable+Stars+in+Six+Andromeda+Dwarf+Spheroidal+Galaxies){:target="_blank"} for full citation
+Use [ADS](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract) for full citation
