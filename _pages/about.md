@@ -14,10 +14,10 @@ redirect_from:
 
 <div class="row">
   <div class="column">
-    <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:100%">
+    <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:45%">
   </div>
   <div class="column">
-    <img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:100%">
+    <img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:45%">
   </div>
 </div>
   
