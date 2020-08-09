@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
-
-<!-- <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:300px;"/> -->
-
 <div>
 <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:54%">
-<img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:45%">
+<img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:44%">
 <p></p>
 </div>
 
+<div>
+<img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
+<p></p>
+</div>
  
 <div style="text-align: justify"> 
 I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American Observatory <a href="http://www.ctio.noao.edu/noao/">(CTIO)</a>, a division of the NSF’s National Optical-Infrared Astronomy Research Laboratory <a href="https://nationalastro.org/">(NOIRLab)</a>. My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti) in Local Group dwarf galaxies.
