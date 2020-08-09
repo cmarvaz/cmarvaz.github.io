@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/ab_cemv.jpg" alt="abme" style="width:200px;"/>
 
-<img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:300px;"/>
+<!-- <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:300px;"/> -->
 
   
 <div style="text-align: justify"> 
