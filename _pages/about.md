@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<div>
+<img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:55%">
+<img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:45%">
+<p></p>
+</div>
+
 <center>
 <img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
 <p></p>
@@ -29,9 +35,4 @@ Since October 2017, I am part of the Scientific Support Team of the Dark Energy 
 </div>
 <hr>
 
-<div>
-<img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:54%">
-<img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:44%">
-<p></p>
-</div>
 
