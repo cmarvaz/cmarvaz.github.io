@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/ab_cemv.jpg" alt="abme" style="width:100px;"/>
+<img src="/images/ab_cemv.jpg" alt="abme" style="width:10px;"/>
 
 ![ctio_day](https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg)
   
