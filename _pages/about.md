@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+
 <center>
 <img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
 <p></p>
