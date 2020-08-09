@@ -8,21 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<head>
 <style>
-h1 {
-  font-size: 40px;
-}
-
-h2 {
-  font-size: 30px;
-}
-
-p {
-  font-size: 14px;
-}
+p {font-size: 14px;}
 </style>
-</head>
 
 
 <center>
