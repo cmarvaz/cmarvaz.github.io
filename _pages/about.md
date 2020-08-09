@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/ab_cemv.jpg" alt="abme" style="width:200px;"/>
+<img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
 
 <!-- <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:300px;"/> -->
 
 <div>
-<img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:55%">
+<img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:53%">
 <img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:45%">
 </div>
 
