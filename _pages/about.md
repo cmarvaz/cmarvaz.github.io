@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-p {font-size: 14px;}
-</style>
-
-
 <center>
 <img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
 <p></p>
