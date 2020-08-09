@@ -15,7 +15,7 @@ redirect_from:
 </div>
 
 <div>
-<img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;"/>
+<img src="/images/ab_cemv.jpg" alt="abme" style="width:300px;" class="center"/>
 <p></p>
 </div>
  
