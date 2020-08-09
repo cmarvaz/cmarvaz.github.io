@@ -9,12 +9,8 @@ redirect_from:
 ---
 
 <div>
-<left
 <img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:54%">
-<\left>
-<right>
 <img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:44%">
-<\right>
 <p></p>
 </div>
 
