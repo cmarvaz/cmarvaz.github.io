@@ -27,16 +27,16 @@ Work Experience
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Advisor: Dr. G. Fiorentino
 
-* Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at the Instituto de Astrofísica de Canarias (Spain)
+* Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at Instituto de Astrofísica de Canarias (Spain)
   * Thesis: Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars 
   * Supervisor: Dr. M. Monelli. 
   * Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
 
-* Jul 2012 - Aug 2013: Summer student grant at the Instituto de Astrofísica de Canarias (Spain)
+* Jul 2012 - Aug 2013: Summer student grant at Instituto de Astrofísica de Canarias (Spain)
   * Project: Chemical Composition of Open Clusters: Variations of the CN and CH band strengths 
   * Supervisor: Dr. R. Carrera
   
-* Sept 2011 - Jul 2012: Student grant in the Department of Physics at the Universidad de Extremadura (Spain) 
+* Sept 2011 - Jul 2012: Student grant in the Department of Physics at Universidad de Extremadura (Spain) 
   * Project: Influence of a interstitial fluid over the transport coefficients of a dilute granular gas 
   * Supervisor: Prof. V. Garzó
 
@@ -102,7 +102,7 @@ I have experience in both photometric and spectroscopic observing runs in the Ro
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
 
 
-Service and leadership
+Service and Leadership
 ======
 
 Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
