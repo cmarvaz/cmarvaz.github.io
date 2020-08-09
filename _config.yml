@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Clara E. Martínez-Vázquez"
 title_separator          : "-"
-name                     : &name "Clara E.<br/> Martínez-Vázquez"
+name                     : &name "Clara E. Martínez-Vázquez"
 description              : &description "personal description"
 url                      : https://cmarvaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Clara Martínez-Vázquez"
+  name             : "Clara E. <br/> Martínez-Vázquez"
   avatar           : "cemv.jpg"
   bio              : "Post Doc Research Associate at CTIO. DECam Support astronomer."
   location         : "CTIO"
