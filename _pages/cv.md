@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astrophysics at Instituto de Astrofísica de Canarias/Universidad de La Laguna (Spain), 2016
-* M.S. in Astrophysics at Universidad de La Laguna (Spain), 2014
-* B.S. in Physics at Universidad de Extremadura (Spain), 2012
+* Ph.D in Astrophysics at Instituto de Astrofísica de Canarias/Universidad de La Laguna (Spain), Nov 2016
+* M.S. in Astrophysics at Universidad de La Laguna (Spain), Jul 2014
+* B.S. in Physics at Universidad de Extremadura (Spain), Jul 2012
 
 
 Work Experience
@@ -96,8 +96,10 @@ Observational Expertise
 =======================
 
 My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain astronomy.
+
+I am PI of 10 proposals and CoI of over 30 more.
  
-I have experience in both photometric and spectroscopic observing runs in the Roque de los Muchachos Observatory (La Palma), Izaña Observatory (Tenerife), and Cerro Tololo Inter-American Observatory (Chile). I personally executed observing runs with WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera).
+I have experience in both photometric and spectroscopic observing runs in the Roque de los Muchachos Observatory (La Palma), Izaña Observatory (Tenerife), Cerro Tololo Inter-American Observatory (Chile) and Cerro Pachón (Chile). I personally executed observing runs with WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera). I have personally executed 98 observing nights. 
 
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
 
