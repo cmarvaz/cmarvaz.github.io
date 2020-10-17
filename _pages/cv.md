@@ -119,10 +119,9 @@ Meetings Organization
 Mentoring 
 =========
 
-* Master student co-advisor. Camille Bentaj, Sorbonne Université, Paris, France (research inter student at Gemini South). Master thesis: \textit{Analysis of stellar variability in multi-conjugate adaptive optics images}. March-July 2020. Main advisor: Dr. John Blakeslee. Other co-advisor(s): Dr. Ricardo Salinas.
+* Master student co-advisor. Camille Bentaj, Sorbonne Université, Paris, France (research inter student at Gemini South). Master thesis: *Analysis of stellar variability in multi-conjugate adaptive optics images*. March-July 2020. Main advisor: Dr. John Blakeslee. Other co-advisor(s): Dr. Ricardo Salinas.
 
-* Undergraduate student co-advisor. Morgan Elise McCarthy, University of Rochester, New York, USA (research inter student at CTIO). Project: \textit{Searching for Variable Stars in the Reticulum III Ultra-Faint Dwarf Galaxy}. June-Aug 2018. Main advisor: Dr. Kathy Vivas.
+* Undergraduate student co-advisor. Morgan Elise McCarthy, University of Rochester, New York, USA (research inter student at CTIO). Project: *Searching for Variable Stars in the Reticulum III Ultra-Faint Dwarf Galaxy*. June-Aug 2018. Main advisor: Dr. Kathy Vivas.
 
-* Master student co-advisor. Alberto Jesús Prieto Antúnez, ULL-IAC, Tenerife, Spain. Master thesis: \textit{Criterios de búsqueda de estrellas variables en galaxias}. Feb-July 2017. Main advisor: Dr. Carme Gallart. Other co-advisor(s): Dr. Matteo Monelli.
-\end{itemize}
+* Master student co-advisor. Alberto Jesús Prieto Antúnez, ULL-IAC, Tenerife, Spain. Master thesis: *Criterios de búsqueda de estrellas variables en galaxias*. Feb-July 2017. Main advisor: Dr. Carme Gallart. Other co-advisor(s): Dr. Matteo Monelli.
 
