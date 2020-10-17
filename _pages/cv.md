@@ -47,11 +47,11 @@ Skills
   * Spanish (mother tongue)
   * English (fluent)
   * Italian (good)
-* Operating systems
+* Operating systems:
   * Unix, Linux, MacOS, Window 
-* Programming Languages
+* Programming Languages:
   * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
-* Astronomical software
+* Astronomical software:
   * IRAF, Aladin, DS9, Topcat, Stilts, DAOPHOT, ALLSTAR, DAOMATCH, DAOMASTER, SExtractor, DRAGONS
 
 
