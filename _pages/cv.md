@@ -103,8 +103,26 @@ I have experience in both photometric and spectroscopic observing runs in the Ro
 
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
 
-
 Service and Leadership
-======
+=======================
 
 Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
+
+Meetings Organization
+=======================
+
+* Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile). Since 2019.
+* Colloquium convenor at CTIO. Since 2018.
+* Member of the Local Organizing Committee of the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
+  held in Tucson (Arizona) in 21-22 May 2018.
+
+Mentoring 
+=========
+
+* Master student co-advisor. Camille Bentaj, Sorbonne Université, Paris, France (research inter student at Gemini South). Master thesis: \textit{Analysis of stellar variability in multi-conjugate adaptive optics images}. March-July 2020. Main advisor: Dr. John Blakeslee. Other co-advisor(s): Dr. Ricardo Salinas.
+
+* Undergraduate student co-advisor. Morgan Elise McCarthy, University of Rochester, New York, USA (research inter student at CTIO). Project: \textit{Searching for Variable Stars in the Reticulum III Ultra-Faint Dwarf Galaxy}. June-Aug 2018. Main advisor: Dr. Kathy Vivas.
+
+* Master student co-advisor. Alberto Jesús Prieto Antúnez, ULL-IAC, Tenerife, Spain. Master thesis: \textit{Criterios de búsqueda de estrellas variables en galaxias}. Feb-July 2017. Main advisor: Dr. Carme Gallart. Other co-advisor(s): Dr. Matteo Monelli.
+\end{itemize}
+
