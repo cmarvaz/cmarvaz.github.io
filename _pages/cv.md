@@ -97,7 +97,7 @@ Observational Expertise
 
 My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain astronomy.
 
-I am PI of 10 proposals and CoI of over 30 more.
+I am PI of 10 proposals (~300 granted hours) and CoI of over 30 more.
  
 I have experience in both photometric and spectroscopic observing runs in the Roque de los Muchachos Observatory (La Palma), Izaña Observatory (Tenerife), Cerro Tololo Inter-American Observatory (Chile) and Cerro Pachón (Chile). I personally executed observing runs with WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera). I have personally executed 98 observing nights. 
 
