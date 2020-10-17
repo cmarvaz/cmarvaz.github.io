@@ -50,9 +50,9 @@ Skills
 * Operating systems
   * Unix, Linux, MacOS, Window 
 * Programming Languages
-  * IDL, Python, Octave/Matlab, SuperMongo, Fortran
+  * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
 * Astronomical software
-  * IRAF, DS9, Topcat, Stilts, Aladin, ...
+  * IRAF, Aladin, DS9, Topcat, Stilts, DAOPHOT, ALLSTAR, DAOMATCH, DAOMASTER, SExtractor, DRAGONS
 
 
 Main Science Interests
