@@ -9,7 +9,7 @@ ORCID <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcid
 See all my publications <a href="https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:magenta">here (ADS)</a> <img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" alt="ads" width="50" style="background-color:#000000"/>
 
 <ul>
-  <li> <p> <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:blue"> Refereed publications </a> <l/i> </p> 
+  <li> <p> <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:blue"> Refereed publications </a> </li> </p> 
  
   <li> <p> <a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22notrefereed%22)&q=%20%20author%3A%22Mart%C3%ADnez-V%C3%A1zquez%2C%20C.%20E.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" style="color:blue"> Submitted and non-refereed publications </a> </li> </p> 
 </ul>
