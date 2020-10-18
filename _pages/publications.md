@@ -35,7 +35,7 @@ First Author Publications
 Martínez-Vázquez, C. E., Salinas, R. and Vivas, A. K., 2020, arXiv:2010.02220, submitted to AJ
 
 * [*RR Lyrae Stars in Ultra-faint and Ultra-diffuse Dwarf Milky Way Companions.*](https://ui.adsabs.harvard.edu/abs/2020Mirro...1....9M/abstract)
-Martínez-Vázquez, Vivas, A. K. and Walker, A. R., 2020, NOIRLab The Mirror, Volume 1, p.9
+Martínez-Vázquez, Vivas, A. K. and Walker, A. R., 2020, NOIRLab The Mirror, Volume 1, p. 9-11
 
 * [*Search for RR Lyrae stars in DES ultrafaint systems: Grus I, Kim 2, Phoenix II, and Grus II.*](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract)
 Martínez-Vázquez, C. E., Vivas, A. K., Gurevich, M., et al. (DES Collaboration) 2019, MNRAS, 490, 2183
