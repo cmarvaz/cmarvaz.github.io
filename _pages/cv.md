@@ -120,6 +120,7 @@ Professional Service
 ====================
 
 * Referee for the journals Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
+* Technical reviewer of DECam observing proposals.
 * Session Chair in the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
   held in Tucson (Arizona) in 21-22 May 2018.
 
