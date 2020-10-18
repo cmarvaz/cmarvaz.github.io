@@ -109,11 +109,18 @@ Service and Leadership
 Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
 
 Meetings Organization
-=======================
+=====================
 
 * Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile). Since 2019.
 * Colloquium convenor at CTIO. Since 2018.
 * Member of the Local Organizing Committee of the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
+  held in Tucson (Arizona) in 21-22 May 2018.
+  
+Professional Service
+====================
+
+* Referee for the journals Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
+* Session Chair in the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
   held in Tucson (Arizona) in 21-22 May 2018.
 
 Mentoring 
