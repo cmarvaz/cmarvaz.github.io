@@ -20,7 +20,7 @@ author_profile: true
 
   <li> <p> Monitor in Astronomy workshops for 7-10 years old students in the event "Viaje al Universo" in the School María de Andacollo (Coquimbo) organised by Gemini South. October 4, 2018. </p> </li>
 
-  <li> <p> Talk <em>{Astronomers & Astronomy at Tololo</em> for the Astronomy in Chile Educator Ambassadors Program (ACEAP) at CTIO on June 13, 2018. </p> </li>
+  <li> <p> Talk <em>Astronomers & Astronomy at Tololo</em> for the Astronomy in Chile Educator Ambassadors Program (ACEAP) at CTIO on June 13, 2018. </p> </li>
 
   <li> <p> Talk <em>Solar Eclipse</em>. Training workshop on the Total Solar Eclipse on July 2019 in Chile for the member of Mesa Regional de Educación para la Sustentabilidad (Mesa EDS). April 20, 2018. </p> </li>
 
