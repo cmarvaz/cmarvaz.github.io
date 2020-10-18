@@ -26,7 +26,7 @@ See all my publications <a href="https://ui.adsabs.harvard.edu/search/q=%20%20au
 {% endfor %}
 -->
 
-<hr style="border:2px solid black"> </hr>
+<hr style="border:2px solid gray"> </hr>
 
 First Author Publications
 =========================
