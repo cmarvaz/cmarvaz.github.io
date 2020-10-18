@@ -11,7 +11,7 @@ redirect_from:
 <!--<center>
 </center> -->
 
-<img src="/images/ab_cemv_alpha.png" alt="abme" style="width:300px;"/>
+<img src="/images/ab_cemv_alpha.png" alt="abme" style="width:200px;"/>
 <p></p>
 
  
