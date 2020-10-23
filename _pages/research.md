@@ -53,8 +53,8 @@ Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined
 | And XVI | 23.70 ± 0.08| Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
 | And XXVIII | 24.43 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
 | Grus I | 20.51 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
-| Phoenix II | 20.01 ± 0.10 | Period- Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
-| Grus II | 18.71 ± 0.10 | Period- Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Phoenix II | 20.01 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Grus II | 18.71 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
 
 
 <div style="text-align: justify">
