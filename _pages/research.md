@@ -74,7 +74,7 @@ Sculptor has been proved to be a gold mine in terms of its early star formation 
 ## Comparing the old population in different environments
 <p></p>
 <div style="text-align: justify">
-In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> we enlarge the sample of M31 satellites with published variability studies. This allow us to compare the pulsational observables of an statistical sample of M31 and MW satellites for which RRL data are available. In spite of a slightly difference in the HB morphology (M31 satellites supports a redder HB morphology than for MW satellites) when we restrict the comparison between M31 and MW systems to the properties of RRLs alone, we do not find significant differences between the two groups of galaxies. This suggests overall similar characteristics of the oldest (> 10 Gyr) population in the two systems.
+In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> we enlarge the sample of M31 satellites with published variability studies. This allow us to compare the pulsational observables of an statistical sample of M31 and Milky Way (MW) satellites for which RR Lyrae data are available. In spite of a slightly difference in the HB morphology (M31 satellites supports a redder HB morphology than for MW satellites) when we restrict the comparison between M31 and MW systems to the properties of RR Lyrae stars alone, we do not find significant differences between the two groups of galaxies. This suggests overall similar characteristics of the oldest (> 10 Gyr) population in the two systems.
 </div>
 
 <img src="/images/mw_m31_simil.png" alt="" width="600"/>
