@@ -80,7 +80,7 @@ In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Mart
 <img src="/images/mw_m31_simil.png" alt="" width="600"/>
 
 
-## Crater II, the first ultra-diffuse galaxy discovered in our galaxy
+## Crater II, the first ultra-diffuse Milky Way satellite detected
 <p></p>
 <div style="text-align: justify">
 Crater II is impressively large, comparable to classical dwarfs like Sculptor or Fornax, but its surface brightness is significatively small (31 mag arcsec$^{-2}$). Using DECam data, we produce in (<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4121W/abstract">Walker, Martínez-Vázquez et al. (2019)</a> the first deep color-magnitude diagram of Crater II that reaches well below the main sequence turn-off and shows that Crater II is an old system with no intermediate age or young stars. The subgiant branch clearly splits in two, showing two burst events of star-formation in its very early epochs. The isochrones indicate a mean age of 12.5 Gyr for the main event and a mean age of 10.5 Gyr for the brighter subgiant branch. With such multiple star formation events, Crater II shows similarity to more massive dwarfs that have intermediate age populations. However, for Crater II, there was early quenching of the star formation and no intermediate age or younger stars are present.
