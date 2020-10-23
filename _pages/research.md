@@ -58,7 +58,7 @@ Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined
 
 
 <div style="text-align: justify">
-The distance moduli obtained to the M31 dwarf satellites were essential for determining their star formation histories in (<a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...837..102S/abstract">Skillman et al. (2017)</a>).
+The distance moduli obtained to the M31 dwarf satellites were essential for determining their star formation histories in <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...837..102S/abstract">Skillman et al. (2017)</a>.
 <p></p>
 </div>
  
