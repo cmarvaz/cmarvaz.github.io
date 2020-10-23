@@ -45,16 +45,16 @@ Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined
 
 |Galaxy | Distance modulus | Method | Reference |
 |:------|:-----------------|:-------|:----------|
-| Sculptor | 19.62 $\pm$ 0.04 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/abstract">Martínez-Vázquez et al. (2015)</a> |
-| And I | 24.49 $\pm$ 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
-| And II | 24.16 $\pm$ 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
-| And III | 24.36 $\pm$ 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
-| And XV | 24.42 $\pm$ 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
-| And XVI | 23.70 $\pm$ 0.08| Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
-| And XXVIII | 24.43 $\pm$ 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
-| Grus I | 20.51 $\pm$ 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
-| Phoenix II | 20.01 $\pm$ 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
-| Grus II | 18.71 $\pm$ 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Sculptor | 19.62 ± 0.04 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/abstract">Martínez-Vázquez et al. (2015)</a> |
+| And I | 24.49 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
+| And II | 24.16 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
+| And III | 24.36 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
+| And XV | 24.42 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
+| And XVI | 23.70 ± 0.08| Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
+| And XXVIII | 24.43 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
+| Grus I | 20.51 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Phoenix II | 20.01 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Grus II | 18.71 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
 
 
 <div style="text-align: justify">
@@ -87,7 +87,7 @@ Crater II is impressively large, comparable to classical dwarfs like Sculptor or
 </div>
 
 <div style="text-align: justify">
-In addition, from the single epoch DECam data we obatined high quality light curves. This allow us (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract">Vivas, Walker, Martínez-Vázquez et al. 2020a</a>) to obtain accurate pulsation parameters for the RR Lyrae stars that we use to measure a new distance for Crater II of 117 $\pm$ 4 kpc.
+In addition, from the single epoch DECam data we obatined high quality light curves. This allow us (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract">Vivas, Walker, Martínez-Vázquez et al. 2020a</a>) to obtain accurate pulsation parameters for the RR Lyrae stars that we use to measure a new distance for Crater II of 117 ± 4 kpc.
 </div>
 
 <img src="/images/cra2_cmd.png" alt="" width="400"/>
