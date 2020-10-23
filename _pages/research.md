@@ -13,6 +13,7 @@ My research interests are primarily focused on the use of variable stars as stel
 To the date I have been involved in several projects that search for variable stars in many Local Group dwarf galaxies and outer halo globular clusters located in different environments:
 <p></p>
 </div>
+
 * Sculptor ([Martínez-Vázquez et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
 
 * And VI, NGC 185, NGC 147 ([Monelli et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
