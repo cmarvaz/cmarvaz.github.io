@@ -106,12 +106,15 @@ Furthermore, from a compilation of several variability studies in classical (M$_
 <img src="/images/MV_NRRL.png" alt="" width="800"/>
 
 ## Delta Scuti stars in the SMC
-
-
+<p></p>
+<div style="text-align: justify">
 Delta Scuti are short period main-sequence pulsating variable stars, tracers of an intermediate-age population (1-5 Gyr). The delta Scuti population on the SMC has not been purposefully studied, and only a few, mostly serendipitous detections have been made. Using Gemini-S/GMOS time-series observations, we present in <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract">Martínez-Vázquez, Salinas & Vivas (2020)</a> the first sizeable detection of delta Scuti stars ever made in the SMC, with 54 delta Scuti stars in the field of NGC 419, an intermediate-age globular cluster of the SMC. This allows us to estimate the density of delta Scuti in the field of the SMC for the first time ($\sim$1.6 delta Scuti/arcmin$^{-2}$). Thus, several tens of thousands of delta Scuti stars are expected to be found in the whole body of the SMC. 
+<p></p>
+</div>
 
-
+<div style="text-align: justify">
 Interestingly, because only a handful of the delta Scuti appear at the main sequence turnoff of the cluster NGC 419, we predict that NGC 419 is younger (t $\lesssim$ 1.2 Gyr) than previously thought. 
-
+<p></p>
+</div>
 
 <img src="/images/ngc419_cmd.png" alt="" width="400"/>
