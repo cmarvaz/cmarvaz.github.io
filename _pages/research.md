@@ -14,21 +14,21 @@ To the date I have been involved in several projects that search for variable st
 <p></p>
 </div>
 
-* Sculptor ([Martínez-Vázquez et al. 2016b](<a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
+* Sculptor ([Martínez-Vázquez et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
 
-* And VI, NGC 185, NGC 147 ([Monelli et al. 2017](<a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
+* And VI, NGC 185, NGC 147 ([Monelli et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
 
-* NGC 5824 ([Walker, Andreuzzi, Martínez-Vázquez et al. 2017](<a href="https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
+* NGC 5824 ([Walker, Andreuzzi, Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
 
-* And I, II, III, XV, XVI, XXVIII ([Martínez-Vázquez et al. 2017](<a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
+* And I, II, III, XV, XVI, XXVIII ([Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
 
-* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](<a href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract), [Vivas, Walker, Martínez-Vázquez et al. 2020](<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
+* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, Martínez-Vázquez et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
 
-* Grus I, Kim 2, Phoenix II, Grus II ([Martínez-Vázquez et al. 2019](<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
+* Grus I, Kim 2, Phoenix II, Grus II ([Martínez-Vázquez et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
 
-* Several ultra-faint dwarfs ([Vivas, Martínez-Vázquez & Walker, 2020](<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) 
+* Several ultra-faint dwarfs ([Vivas, Martínez-Vázquez & Walker, 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) 
 
-* NGC 419 ([Martínez-Vázquez, Salinas & Vivas, 2020](<a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
+* NGC 419 ([Martínez-Vázquez, Salinas & Vivas, 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
 
 
 <div style="text-align: justify">
@@ -52,9 +52,9 @@ Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined
 | And XV | 24.42 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> |
 | And XVI | 23.70 ± 0.08| Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
 | And XXVIII | 24.43 ± 0.08 | Period-Wesenheit | <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a>  |
-| Grus I | 20.51 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">[Martínez-Vázquez et al. (2019)</a> |
-| Phoenix II | 20.01 ± 0.10 | Period- Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">[Martínez-Vázquez et al. (2019)</a> |
-| Grus II | 18.71 ± 0.10 | Period- Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">[Martínez-Vázquez et al. (2019)</a> |
+| Grus I | 20.51 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Phoenix II | 20.01 ± 0.10 | Period- Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
+| Grus II | 18.71 ± 0.10 | Period- Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
 
 
 <div style="text-align: justify">
@@ -77,7 +77,7 @@ Sculptor has been proved to be a gold mine in terms of its early star formation 
 In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> we enlarge the sample of M31 satellites with published variability studies. This allow us to compare the pulsational observables of an statistical sample of M31 and MW satellites for which RRL data are available. In spite of a slightly difference in the HB morphology (M31 satellites supports a redder HB morphology than for MW satellites) when we restrict the comparison between M31 and MW systems to the properties of RRLs alone, we do not find significant differences between the two groups of galaxies. This suggests overall similar characteristics of the oldest (> 10 Gyr) population in the two systems.
 </div>
 
-<img src="/images/mw_m31_simil.png" alt="" width="700"/>
+<img src="/images/mw_m31_simil.png" alt="" width="600"/>
 
 
 ## Crater II, the first ultra-diffuse galaxy discovered in our galaxy
