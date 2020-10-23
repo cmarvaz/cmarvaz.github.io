@@ -48,6 +48,7 @@ Sculptor has been proved to be a gold mine in terms of its early star formation 
 
 # Crater II, the first ultra-diffuse galaxy discovered in our galaxy
 Crater II is impressively large, comparable to classical dwarfs like Sculptor or Fornax, but its surface brightness is significatively small (31 mag arcsec$^{-2}$). Using DECam data, we have produced in [Walker, Martínez-Vázquez et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4121W/abstract) the first deep color-magnitude diagram of Crater II that reaches well below the main sequence turn-off and shows that Crater II is an old system with no intermediate age or young stars. The subgiant branch clearly splits in two, showing two burst events of star-formation in its very early epochs. The isochrones indicate a mean age of 12.5 Gyr for the main event and a mean age of 10.5 Gyr for the brighter subgiant branch. With such multiple star formation events, Crater II shows similarity to more massive dwarfs that have intermediate age populations. However, for Crater II, there was early quenching of the star formation and no intermediate age or younger stars are present.
+
 In addition, high quality light curves were obtained from the single epoch DECam data. This allowed us ([Vivas, Walker, Martínez-Vázquez et al. 2020a](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) to obtain accurate pulsation parameters for the RR Lyrae stars, which we used to measure a new distance for Crater II of 117 ± 4 kpc.
  
 <img src="/images/cra2_cmd.png" alt="" width="400"/>
