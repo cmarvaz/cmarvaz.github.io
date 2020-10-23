@@ -15,7 +15,7 @@ To the date I have been involved in several projects that search for variable st
 
 * And I, II, III, XV, XVI, XXVIII ([Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
 
-* Crater II ([Monelli et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract), [Vivas et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
+* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract), [Vivas, Walker, Martínez-Vázquez et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
 
 * Grus I, Kim 2, Phoenix II, Grus II ([Martínez-Vázquez et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
 
@@ -24,13 +24,15 @@ To the date I have been involved in several projects that search for variable st
 * NGC 419 ([Martínez-Vázquez, Salinas & Vivas, 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
 
 
+
 Below I summarize my main research topics.
+
 
 # RR Lyrae as distance indicators
 Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined period luminosity and period-color relations that provide accurate and precise individual distances. I have used them to obtain accurate distances to several dwarf galaxies. This table lists the distances I have obtained using RR Lyrae stars.
 
-|Galaxy | Distance | Method | Reference |
-|:------|:---------|:-------|:----------|
+|Galaxy | Distance modulus | Method | Reference |
+|:------|:-----------------|:-------|:----------|
 | Sculptor | 19.62 ± 0.04 | Period-Wesenheit | [Martínez-Vázquez et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/abstract) |
 | And I | 24.49 ± 0.08 | Period-Wesenheit | [Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract) |
 | And II | 24.16 ± 0.08 | Period-Wesenheit | [Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract)  |
@@ -61,7 +63,7 @@ Furthermore, from a compilation of several variability studies in classical (M$_
 <img src="/images/MV_NRRL.png" alt="" width="800"/>
 
 # Delta Scuti stars in the SMC
-Delta Scuti are short period main-sequence pulsating variable stars, tracers of an intermediate-age population (1-5 Gyr). The delta Scuti population on the SMC has not been purposefully studied, and only a few, mostly serendipitous detections have been made. In [Martínez-Vázquez, Salinas & Vivas (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract) we present the first sizeable detection of delta Scuti stars ever made in the SMC, with 54 delta Scuti stars in the field of NGC 419, an intermediate-age globular cluster of the SMC. This allows us to estimate the density of delta Scuti in the field of the SMC for the first time ($\sim$1.6 delta Scuti/arcmin$^{-2}$). Thus, several tens of thousands of delta Scuti stars are expected to be found in the whole body of the SMC. 
+Delta Scuti are short period main-sequence pulsating variable stars, tracers of an intermediate-age population (1-5 Gyr). The delta Scuti population on the SMC has not been purposefully studied, and only a few, mostly serendipitous detections have been made. Using Gemini-S/GMOS time-series observations, we present in [Martínez-Vázquez, Salinas & Vivas (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract) the first sizeable detection of delta Scuti stars ever made in the SMC, with 54 delta Scuti stars in the field of NGC 419, an intermediate-age globular cluster of the SMC. This allows us to estimate the density of delta Scuti in the field of the SMC for the first time ($\sim$1.6 delta Scuti/arcmin$^{-2}$). Thus, several tens of thousands of delta Scuti stars are expected to be found in the whole body of the SMC. 
 
 Interestingly, because only a handful of the delta Scuti appear at the main sequence turnoff of the cluster NGC 419, we predict that NGC 419 is younger (t $\lesssim$ 1.2 Gyr) than previously thought. 
 
