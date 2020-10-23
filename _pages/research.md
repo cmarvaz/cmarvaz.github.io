@@ -113,7 +113,7 @@ Delta Scuti are short period main-sequence pulsating variable stars, tracers of 
 </div>
 
 <div style="text-align: justify">
-Interestingly, because only a handful of the delta Scuti appear at the main sequence turnoff of the cluster NGC 419, we predict that NGC 419 is younger (t $\lesssim$ 1.2 Gyr) than previously thought. Moreover, the cluster delta Scuti stars appear close to the red edge of the MSTO, supporting the idea that the extended MSTO has its origin in an age spread.
+We find that the contribution of delta Scuti into the broadening of the main-sequend turn off (MSTO) of NGC 419 is almost negligible. Only 6 delta Scuti were detected as probable members of NGC 419. The dearth of delta Scuti in NGC 419, with only a few and lying in the red edge of the MSTO, seems a natural implication that  the extended MSTO may be caused by the existence of a range of populations with different ages. Interestingly, because only a handful of the delta Scuti appear at the main sequence turnoff of the cluster NGC 419, we predict that NGC 419 is younger (t $\lesssim$ 1.2 Gyr) than previously thought.
 <p></p>
 </div>
 
