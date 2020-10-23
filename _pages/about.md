@@ -16,7 +16,7 @@ redirect_from:
 
  
 <div style="text-align: justify"> 
-I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American Observatory <a href="http://www.ctio.noao.edu/noao/">(CTIO)</a>, a division of the NSF’s National Optical-Infrared Astronomy Research Laboratory <a href="https://nationalastro.org/">(NOIRLab)</a>. My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti) in Local Group dwarf galaxies.
+I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American Observatory <a href="https://noirlab.edu/public/programs/ctio/">(CTIO)</a>, a program of the NSF’s National Optical-Infrared Astronomy Research Laboratory <a href="https://nationalastro.org/">(NOIRLab)</a>. My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti) in Local Group dwarf galaxies and globular clusters.
 <p></p>
 </div>
 
