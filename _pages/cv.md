@@ -92,12 +92,13 @@ Listener
 
 Observational Expertise
 =======================
-
+<!---
 <div style="text-align: justify">
 My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain astronomy.
 <p></p>
 </div>
-  
+-->
+
 <div style="text-align: justify">
 I am PI of 10 proposals (~300 granted hours) and CoI of ~30 more.
 <p></p>
