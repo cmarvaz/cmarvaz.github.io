@@ -22,15 +22,13 @@ Work Experience
 ======
 * Oct 2017 - today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIR Lab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
-  * Advisor: Dr. S. R. Heathcote
   
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Advisor: Dr. G. Fiorentino
 
 * Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at Instituto de Astrofísica de Canarias (Spain)
   * Thesis: Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars 
-  * Supervisor: Dr. M. Monelli. 
-  * Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
+  * Supervisor: Dr. M. Monelli. Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
 
 * Jul 2012 - Aug 2013: Summer student grant at Instituto de Astrofísica de Canarias (Spain)
   * Project: Chemical Composition of Open Clusters: Variations of the CN and CH band strengths 
@@ -99,14 +97,14 @@ My main scientific interest –the study of variable stellar populations– requ
 
 I am PI of 10 proposals (~300 granted hours) and CoI of ~30 more.
  
-I have experience in both photometric and spectroscopic observing runs in the Roque de los Muchachos Observatory (La Palma), Izaña Observatory (Tenerife), Cerro Tololo Inter-American Observatory (Chile) and Cerro Pachón (Chile). I personally executed observing runs with WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera). I have personally executed 98 observing nights. 
+I have experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), and Cerro Pachón (Chile). I personally executed ~100 observing nigths using the following instruments: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera).
 
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
 
 Service and Leadership
 =======================
 
-Currently working 50% in Science (involved in more than 5 collaboration teams and my own research) and 50% in Duties for the NSF's NOIR Lab Cerro Tololo Inter-American Observatory (CTIO).
+Currently working 50% in Duties for the NSF's NOIRLab Cerro Tololo Inter-American Observatory (CTIO) and 50% in Science (involved in more than 5 international collaboration teams and my own research).
 
 Meetings Organization
 =====================
