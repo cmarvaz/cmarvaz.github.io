@@ -117,6 +117,5 @@ We find that the contribution of delta Scuti into the broadening of the main-seq
 <p></p>
 </div>
 
-<img src="/images/ngc419_fc.png" alt="" width="350"/>
-<img src="/images/ngc419_cmd.png" alt="" width="350"/>
+<img src="/images/ngc419_dsct.png" alt="" width="800"/>
 
