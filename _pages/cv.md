@@ -95,26 +95,26 @@ Observational Expertise
 
 <div style="text-align: justify">
 My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain astronomy.
-<\div>
+</div>
   
 <div style="text-align: justify">
 I am PI of 10 proposals (~300 granted hours) and CoI of ~30 more.
-<\div>
+</div>
   
 <div style="text-align: justify">
 I have experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), and Cerro Pachón (Chile). I personally executed ~100 observing nigths using the following instruments: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera).
-<\div>
+</div>
   
 <div style="text-align: justify">
 Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
-<\div>
+</div>
   
 Service and Leadership
 =======================
   
 <div style="text-align: justify">
 Currently working 50% in Duties for the NSF's NOIRLab Cerro Tololo Inter-American Observatory (CTIO) and 50% in Science (involved in more than 5 international collaboration teams and my own research).
-<\div>
+</div>
 
 Meetings Organization
 =====================
