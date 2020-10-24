@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Outreach"
+title: <font face = "Economica" size = "10" style= "bold">Outreach</font>
 permalink: /outreach/
 author_profile: true
 ---
