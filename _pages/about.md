@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "About me"
+title: <font face = "Fantasy" size = "5">"About me"</font>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 <!--<center>
-</center> -->
-
+</center>
 <img src="/images/ab_cemv_alpha.png" alt="abme" style="width:200px;"/>
 <p></p>
-
+ -->
  
 <div style="text-align: justify"> 
 I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American Observatory <a href="https://noirlab.edu/public/programs/ctio/">(CTIO)</a>, a program of the NSF’s National Optical-Infrared Astronomy Research Laboratory <a href="https://nationalastro.org/">(NOIRLab)</a>. My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti) in Local Group dwarf galaxies and globular clusters.
