@@ -74,7 +74,7 @@ Sculptor has been proved to be a gold mine in terms of its early star formation 
 ## Comparing the old population in different environments
 <p></p>
 <div style="text-align: justify">
-In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> we enlarge the sample of M31 satellites with published variability studies. This allow us to compare the pulsational observables of an statistical sample of M31 and Milky Way (MW) satellites for which RR Lyrae data are available. In spite of a slightly difference in the HB morphology (M31 satellites supports a redder HB morphology than for MW satellites) when we restrict the comparison between M31 and MW systems to the properties of RR Lyrae stars alone, we do not find significant differences between the two groups of galaxies. This suggests overall similar characteristics of the oldest (>10 Gyr) population in the two systems.
+In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Martínez-Vázquez et al. (2017)</a> we enlarge the sample of M31 satellites with published variability studies. This allows us to compare the pulsational observables of an statistical sample of M31 and Milky Way (MW) satellites for which RR Lyrae data are available. In spite of a slightly difference in the HB morphology (M31 satellites support a redder HB morphology than MW satellites) when we restrict the comparison between M31 and MW systems to the properties of RR Lyrae stars alone, we do not find significant differences between the two groups of galaxies. This suggests overall similar characteristics of the oldest (>10 Gyr) population in the two systems.
 </div>
 
 <img src="/images/mw_m31_simil.png" alt="" width="600"/>
@@ -87,7 +87,7 @@ Crater II is impressively large, comparable to classical dwarfs like Sculptor or
 </div>
 
 <div style="text-align: justify">
-In addition, from the single epoch DECam data we obatined high quality light curves. This allow us (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract">Vivas, Walker, Martínez-Vázquez et al. 2020a</a>) to obtain accurate pulsation parameters for the RR Lyrae stars that we use to measure a new distance for Crater II of 117 ± 4 kpc.
+In addition, from the single epoch DECam data we obatined high quality light curves. This allows us (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract">Vivas, Walker, Martínez-Vázquez et al. 2020a</a>) to obtain accurate pulsation parameters for the RR Lyrae stars that we use to measure a new distance for Crater II of 117 ± 4 kpc.
 </div>
 
 <img src="/images/cra2_cmd.png" alt="" width="400"/>
@@ -99,7 +99,7 @@ Searching for RR Lyrae stars in the ultra faint dwarf Miky Way satellites is imp
 </div>
 
 <div style="text-align: justify">
-Furthermore, from a compilation of several variability studies in classical (M$_V < -8$ mag) and ultra-faint dwarf galaxies, in <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> we infer that there is a linear correlation between the brightness of a galaxy and the number of RR Lyrae stars in the galaxy,  which after updating the number of RR Lyrae stars in <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract">Vivas, Martínez-Vázquez & Walker (2020)</a>, has been proved to work very well even in the low luminosity regime. This relation not only foresees the number of RR Lyrae stars but also predicts that the method of finding new ultra faint dwarf galaxies by using two or more clumped RR Lyrae stars may work only for systems brighter than M $\lesssim -4$ mag.
+Furthermore, from a compilation of several variability studies in classical (M$_V$ < --8 mag) and ultra-faint dwarf galaxies, in <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> we infer that there is a linear correlation between the brightness of a galaxy and the number of RR Lyrae stars in the galaxy,  which after updating the number of RR Lyrae stars in <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract">Vivas, Martínez-Vázquez & Walker (2020)</a>, has been proved to work very well even in the low luminosity regime. This relation not only foresees the number of RR Lyrae stars but also predicts that the method of finding new ultra faint dwarf galaxies by using two or more clumped RR Lyrae stars may work only for systems brighter than M$_V$ $\lesssim$ --4 mag.
 <p></p>
 </div>
 
@@ -108,7 +108,7 @@ Furthermore, from a compilation of several variability studies in classical (M$_
 ## Delta Scuti stars in the SMC
 <p></p>
 <div style="text-align: justify">
-Delta Scuti are short period main-sequence pulsating variable stars, tracers of an intermediate-age population (1-5 Gyr). The delta Scuti population on the SMC has not been purposefully studied, and only a few, mostly serendipitous detections have been made. Using Gemini-S/GMOS time-series observations, we present in <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract">Martínez-Vázquez, Salinas & Vivas (2020)</a> the first sizeable detection of delta Scuti stars ever made in the SMC, with 54 delta Scuti stars in the field of NGC 419, an intermediate-age globular cluster of the SMC. This allows us to estimate the density of delta Scuti in the field of the SMC for the first time ($\sim$1.6 delta Scuti/arcmin$^{-2}$). Thus, several tens of thousands of delta Scuti stars are expected to be found in the whole body of the SMC. 
+Delta Scuti are short period main-sequence pulsating variable stars, tracers of an intermediate-age population (1--5 Gyr). The delta Scuti population on the SMC has not been purposefully studied, and only a few, mostly serendipitous detections have been made. Using Gemini-S/GMOS time-series observations, we present in <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract">Martínez-Vázquez, Salinas & Vivas (2020)</a> the first sizeable detection of delta Scuti stars ever made in the SMC, with 54 delta Scuti stars in the field of NGC 419, an intermediate-age globular cluster of the SMC. This allows us to estimate the density of delta Scuti in the field of the SMC for the first time ($\sim$1.6 delta Scuti/arcmin$^{-2}$). Thus, several tens of thousands of delta Scuti stars are expected to be found in the whole body of the SMC. 
 <p></p>
 </div>
 
