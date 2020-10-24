@@ -29,9 +29,9 @@ See all my publications <a href="https://ui.adsabs.harvard.edu/search/q=%20%20au
 
 
 ---
-
+<h1>
 <font face = "Economica" size = "10" style= "bold">First Author Publications</font>
-=========================
+</h1>
 (Updated on October, 2020)
 
 * [*Short period variability in the globular cluster NGC 419 and the SMC field.*](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract)
