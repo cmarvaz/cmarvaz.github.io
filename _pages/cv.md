@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: <font face = "Economica" size = "10" style= "bold">Curriculum Vitae</font>
 permalink: /cv/
 author_profile: true
 redirect_from:
