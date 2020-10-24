@@ -20,7 +20,7 @@ Education
 
 Work Experience
 ======
-* Oct 2017 - today: Postdoc Research Associate at the Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
+* Oct 2017 - today: Postdoc Research Associate at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
   
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
