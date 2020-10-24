@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: <font face = "Economica" size = "10" style= "bold">Research</font>
 permalink: /research/
 author_profile: true
 ---
