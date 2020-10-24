@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: <font face = "Economica" size = "10" style= "bold">About me</font>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,6 @@ redirect_from:
 
 <!--<center>
 </center>
-<font face = "Economica" size = "10" style= "bold">About me</font>
 <img src="/images/ab_cemv_alpha.png" alt="abme" style="width:200px;"/>
 <p></p>
  -->
