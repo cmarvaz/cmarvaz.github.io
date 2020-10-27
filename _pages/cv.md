@@ -118,7 +118,7 @@ Service and Leadership
 =======================
   
 <div style="text-align: justify">
-Currently working 50% in Duties for the NSF's NOIRLab Cerro Tololo Inter-American Observatory (CTIO) and 50% in Science (involved in more than 5 international collaboration teams and my own research).
+Currently working 50% in Duties for the NSF's NOIRLab Cerro Tololo Inter-American Observatory (CTIO) and 50% in Science (involved in several international collaboration teams and my own research).
 </div>
 
 Meetings Organization
