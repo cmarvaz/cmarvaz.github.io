@@ -119,6 +119,7 @@ Service and Leadership
   
 <div style="text-align: justify">
 Currently working 50% in Duties for the NSF's NOIRLab Cerro Tololo Inter-American Observatory (CTIO) and 50% in Science, involved in several international collaboration teams and my own research.
+<p></p>
 </div>
 
 Meetings Organization
@@ -134,7 +135,7 @@ Professional Service
 
 * Referee for the journals Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
 * Technical reviewer of DECam observing proposals.
-* Session Chair in the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
+* Session Chair of the conference *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
   held in Tucson (Arizona) in 21-22 May 2018.
 
 Mentoring 
