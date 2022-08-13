@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Updated on October, 2020)
+(Updated on August, 2022)
 
 Education
 ======
@@ -20,7 +20,10 @@ Education
 
 Work Experience
 ======
-* Oct 2017 - today: Postdoc Research Associate at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
+* Sep 2021 - today: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
+  * Duties: GMOS, GRACES and NIRI support staff. Journal Club organizer.
+
+* Oct 2017 - Sep 2021: Postdoc Research Associate at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
   
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
@@ -89,6 +92,8 @@ Listener
 * *Workshop Data Science ULS: Introducción Práctica a Herramientas Computacionales para Ciencias Intensivas en Datos*, 4-6 Dec 2017, La Serena (Chile) 
 * *Workshop ADONI 2017: The Adaptive Optics in Astronomy in Italy*, 10-12 Apr 2017, Padova (Italy)
 -->
+
+(Updated on October, 2020)
 
 Observational Expertise
 =======================
