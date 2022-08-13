@@ -15,7 +15,7 @@ redirect_from:
  -->
  
 <div style="text-align: justify"> 
-I am currently a Postdoctoral Research Associate at Cerro Tololo Inter-American Observatory <a href="https://noirlab.edu/public/programs/ctio/">(CTIO)</a>, a program of the NSF’s National Optical-Infrared Astronomy Research Laboratory <a href="https://nationalastro.org/">(NOIRLab)</a>. My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti) in Local Group dwarf galaxies and globular clusters.
+I am currently Science Fellow at Gemini Observatory in Hawai'i <a href="https://www.gemini.edu/"> Gemini Observatory </a>, a program of the NSF’s National Optical-Infrared Astronomy Research Laboratory <a href="https://nationalastro.org/">(NOIRLab)</a>. My main scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti, Miras) in Local Group dwarf galaxies and globular clusters. My main research is focused, in particular, on the use of variable stars as standard candles and as probes of the evolution of Local Group galaxies.
 <p></p>
 </div>
 
@@ -25,12 +25,13 @@ I am a member of several international collaborations: <a href="https://www.dark
 </div>
 
 <div style="text-align: justify"> 
-Since October 2017, I am part of the Scientific Support Team of the Dark Energy Camera <a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam">(DECam)</a> at the CTIO-4m Blanco telescope and I continue my research focusing, in particular, on the use of variable stars as standard candles and as probes of the evolution of Local Group galaxies.
+Since Septermber 2021, I am part of the <a href="http://www.gemini.edu/instrumentation/gmos"> GMOS </a>, <a href="https://www.gemini.edu/instrumentation/graces"> GRACES </a>, <a href="https://www.gemini.edu/instrumentation/niri"> NIRI </a> team at Gemini, and  ruring my postdoc at <a href="https://noirlab.edu/public/programs/ctio/">(CTIO)</a> I was part of the scientific support team of the Dark Energy Camera <a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam">(DECam)</a> at the CTIO-4m Blanco telescope.
+
 <p></p>
 </div>
 
 <div>
-<img src="https://nationalastro.org/wp-content/uploads/2019/09/CTIO-Sunset2560x1000.jpg" alt="ctio_day" style="width:54%">
+<img src="https://noirlab.edu/public/images/iotw2227a/" alt="gemini_night" style="width:54%">
 <img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:44%">
 <p></p>
 </div>
