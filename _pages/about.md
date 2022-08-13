@@ -20,7 +20,7 @@ I am currently Science Fellow at <a href="https://www.gemini.edu/"> Gemini Obser
 </div>
 
 <div style="text-align: justify"> 
-Since Septermber 2021, I am part of the <a href="http://www.gemini.edu/instrumentation/gmos"> GMOS </a>, <a href="https://www.gemini.edu/instrumentation/graces"> GRACES </a>, <a href="https://www.gemini.edu/instrumentation/niri"> NIRI </a> support staff at Gemini Observatory, and during my postdoc at <a href="https://noirlab.edu/public/programs/ctio/">(CTIO)</a> I was part of the scientific support team of the Dark Energy Camera <a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam">(DECam)</a> at the CTIO-4m Blanco telescope.
+Since Septermber 2021, I am part of the <a href="http://www.gemini.edu/instrumentation/gmos"> GMOS</a>, <a href="https://www.gemini.edu/instrumentation/graces"> GRACES</a>, <a href="https://www.gemini.edu/instrumentation/niri"> NIRI</a> support staff at Gemini Observatory, and during my postdoc at <a href="https://noirlab.edu/public/programs/ctio/">(CTIO)</a> I was part of the scientific support team of the Dark Energy Camera <a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam">(DECam)</a> at the CTIO-4m Blanco telescope.
 <p></p>
 </div>
 
@@ -30,8 +30,8 @@ I am a member of several international collaborations: <a href="https://www.dark
 </div>
 
 <div>
-<img src="https://noirlab.edu/public/media/archives/images/screen/iotw2227a.jpg" alt="gemini_night" style="width:54%">
-<img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:44%">
+<img src="https://noirlab.edu/public/media/archives/images/screen/iotw2227a.jpg" alt="gemini_night" style="width:53%">
+<img src="https://photos.smugmug.com/photos/i-JD8mnH4/0/X2/i-JD8mnH4-X2.jpg" alt="ctio_night" style="width:45%">
 <p></p>
 </div>
 <hr>
