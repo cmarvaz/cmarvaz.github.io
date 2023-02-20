@@ -21,10 +21,14 @@ Education
 Work Experience
 ======
 * Sep 2021 - today: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
-  * Duties: GMOS, GRACES, NIRI, IGRINS-2 support staff. Journal Club organizer.
+  * Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff. Journal Club organizer.
+  * Currently working 50% in functional duties for the Gemini Observatory and 50% in Science, involved in several international collaboration teams and my own research.
+
 
 * Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
+  * Working 50% in functional duties for CTIO and 50% in Science, involved in several international collaboration teams and my own research.
+
   
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Advisor: Dr. G. Fiorentino
@@ -53,12 +57,12 @@ Skills
 * Programming Languages:
   * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
 * Astronomical software:
-  * IRAF, Aladin, DS9, Topcat, Stilts, DAOPHOT, ALLSTAR, DAOMATCH, DAOMASTER, SExtractor, DRAGONS
+  * IRAF, Aladin, DS9, TOPCAT, STILTS, DAOPHOT, ALLSTAR, ALLFRME, DAOMATCH, DAOMASTER, SExtractor, DRAGONS
 
 
 Main Science Interests
 =======================
-stars: variables: RR Lyrae, Cepheids, delta Scuti – galaxies: evolution, stellar content – star clusters – Local Group
+stars: variables: pulating stars: RR Lyrae, Cepheids, Miras, delta Scuti – galaxies: evolution, stellar content – star clusters – Local Group
 
 <!--
 Publications
@@ -93,58 +97,75 @@ Listener
 * *Workshop ADONI 2017: The Adaptive Optics in Astronomy in Italy*, 10-12 Apr 2017, Padova (Italy)
 -->
 
-(Updated on October, 2020)
+(Updated on February, 2023)
 
 Observational Expertise
 =======================
 <!---
 <div style="text-align: justify">
-My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain astronomy.
+My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain Astronomy.
 <p></p>
 </div>
 -->
 
 <div style="text-align: justify">
-I am PI of 10 proposals (~300 granted hours) and CoI of ~30 more.
+PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44 more.
 <p></p>
 </div>
   
 <div style="text-align: justify">
-I have experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), and Cerro Pachón (Chile). I personally executed ~100 observing nigths using the following instruments: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera).
+* Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i). 
+
+* Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
 <p></p>
 </div>
   
 <div style="text-align: justify">
-Since October 2017 I am also part of the DECam Scientific Support Team which is giving me plenty experience in wide-field cameras and in telescopes.
+* More than 200 observing nights at CTIO (2017-2021) as part of the DECam Science Support Team, giving DECam support in assisting observers and also helping during Engineering nights. 
+* Since September 2021, observer in 21 queue nights at Gemini North observing with the following instruments: GMOS-N (optical imager, long-slit, MOS, IFU), NIRI (NIR imager), NIFS (NIR IFU), and GNIRS.
 <p></p>
 </div>
-  
-Service and Leadership
-=======================
+ 
+
+Leadership
+===========
   
 <div style="text-align: justify">
-Currently working 50% in Duties for the NSF's NOIRLab Cerro Tololo Inter-American Observatory (CTIO) and 50% in Science, involved in several international collaboration teams and my own research.
+* Science coordinator for the DELVE-WIDE group within the DELVE survey
+* Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group
+* Organiser of the Gemini North Journal Club
+* Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile), 2019-2021.
+* Colloquium convenor at CTIO, 2018-2021.
 <p></p>
 </div>
 
-Meetings Organization
+
+Professional Service
 =====================
 
-* Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile). Since 2019.
-* Colloquium convenor at CTIO. Since 2018.
-* Member of the Local Organizing Committee of the meeting *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
-  held in Tucson (Arizona) in 21-22 May 2018.
-  
-Professional Service
-====================
-
-* Referee for the journals Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
+* Internal Scientific Referee in the Milky Way Working Group of the Dark Energy Survey (DES) Collaboration. 
+* Scientific Referee in the AAS, A&A, MNRAS journals.
+* SOC member of the *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
+* SOC member of *the Joint Observatories Kavli Science Forum in Chile*. Santiago, Chile (April, 25-29, 2022).
+* Session Chair of the session *Galaxy \& Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
+* Chambliss judge for the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
+* Session Chair of the conference *DECam at 10 years -- Looking Back, Looking Forward*. Tucson, Arizona (Sep 12-14, 2022).
+* Session Chair of the conference *Gemini Observatory Science Meeting 2022*. Seoul, South Korea (Jul 26-29, 2022).
+* Session Chair of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (May 21-22, 2018).
+* LOC of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (21-22 May 2018).
+* Memeber of the Science Fellow hiring committee panel 2021.
+* Queue coordinator at Gemini Observatory (since December 2022).
+* GMOS, GRACES, NIRI, IGRINS-2 support staff at the Gemini Observatory (devoting 50\% of my time from October 2021 to the present).
+* DECam support member (devoting 50\% of my time from October 2017 to September 2021)
 * Technical reviewer of DECam observing proposals.
-* Session Chair of the conference *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*
-  held in Tucson (Arizona) in 21-22 May 2018.
+
 
 Mentoring 
 =========
+
+* Ph.D. student co-advisor. Joseph Mullen, Iowa State University, USA. Project: *Metallicity and Period-Luminosity relations of Galactic RR Lyrae stars from Optical and Infrared Light Curves*. 2019-2023. Main advisor: Dr. Massimo Marengo.
+
+* Undergraduate student co-advisor. Xavier Tablit, University of Hawai'i, Hilo, USA (Akamai student at Gemini Observatory). Project: *A Brute Force Strategy for Cataloging Members of Open Clusters*. June-July 2021. Main advisor: Dr. André-Nicolas Chené.
 
 * Master student co-advisor. Camille Bentaj, Sorbonne Université, Paris, France (research inter student at Gemini South). Master thesis: *Analysis of stellar variability in multi-conjugate adaptive optics images*. March-July 2020. Main advisor: Dr. John Blakeslee. Other co-advisor(s): Dr. Ricardo Salinas.
 
