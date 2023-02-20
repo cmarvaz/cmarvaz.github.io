@@ -31,6 +31,7 @@ Work Experience
 
   
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
+  * Project: Resolved stellar population to study the potential of multi-conjugate adaptive optics
   * Advisor: Dr. G. Fiorentino
 
 * Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at Instituto de Astrofísica de Canarias (Spain)
