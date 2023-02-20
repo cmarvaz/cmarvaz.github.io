@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Updated on August, 2022)
+(Updated on February, 2023)
 
 Education
 ======
@@ -157,7 +157,7 @@ Professional Service
 * Memeber of the Science Fellow hiring committee panel 2021.
 * Queue coordinator at Gemini Observatory (since December 2022).
 * GMOS, GRACES, NIRI, IGRINS-2 support staff at the Gemini Observatory (devoting 50\% of my time from October 2021 to the present).
-* DECam support member (devoting 50\% of my time from October 2017 to September 2021)
+* DECam support member (devoting 50% of my time from October 2017 to September 2021)
 * Technical reviewer of DECam observing proposals.
 
 
