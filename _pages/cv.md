@@ -21,9 +21,9 @@ Education
 Work Experience
 ======
 * Sep 2021 - today: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
-  * Duties: GMOS, GRACES and NIRI support staff. Journal Club organizer.
+  * Duties: GMOS, GRACES, NIRI, IGRINS-2 support staff. Journal Club organizer.
 
-* Oct 2017 - Sep 2021: Postdoc Research Associate at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
+* Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
   * Duties: DECam support scientist, Colloquium convenor
   
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
