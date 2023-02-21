@@ -105,7 +105,7 @@ Observational Expertise
 * Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i). 
 * Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph), DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
 * More than 200 observing nights at CTIO (2017-2021) as part of the DECam Science Support Team, giving DECam support in assisting observers and also helping during Engineering nights. 
-* Since September 2021, observer in 21 queue nights at Gemini North observing with the following instruments: GMOS-N (optical imager, long-slit, MOS, IFU), NIRI (NIR imager), NIFS (NIR IFU), and GNIRS.
+* Since September 2021, observer in 21 queue nights at Gemini North with the following instruments: GMOS-N (optical imager, long-slit, MOS, IFU), NIRI (NIR imager), NIFS (NIR IFU), and GNIRS.
 
 
 Leadership
