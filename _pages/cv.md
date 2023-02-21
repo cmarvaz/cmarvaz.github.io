@@ -98,7 +98,6 @@ Listener
 * *Workshop ADONI 2017: The Adaptive Optics in Astronomy in Italy*, 10-12 Apr 2017, Padova (Italy)
 -->
 
-(Updated on February, 2023)
 
 Observational Expertise
 =======================
@@ -109,36 +108,26 @@ My main scientific interest –the study of variable stellar populations– requ
 </div>
 -->
 
-<div style="text-align: justify">
-PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44 more.
-<p></p>
-</div>
-  
-<div style="text-align: justify">
+* PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44 more.
+
 * Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i). 
 
 * Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
-<p></p>
-</div>
-  
-<div style="text-align: justify">
+
 * More than 200 observing nights at CTIO (2017-2021) as part of the DECam Science Support Team, giving DECam support in assisting observers and also helping during Engineering nights. 
+
 * Since September 2021, observer in 21 queue nights at Gemini North observing with the following instruments: GMOS-N (optical imager, long-slit, MOS, IFU), NIRI (NIR imager), NIFS (NIR IFU), and GNIRS.
-<p></p>
-</div>
- 
+
 
 Leadership
 ===========
   
-<div style="text-align: justify">
 * Science coordinator for the DELVE-WIDE group within the DELVE survey
 * Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group
 * Organiser of the Gemini North Journal Club
 * Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile), 2019-2021.
 * Colloquium convenor at CTIO, 2018-2021.
-<p></p>
-</div>
+
 
 
 Professional Service
