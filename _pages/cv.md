@@ -101,27 +101,15 @@ Listener
 
 Observational Expertise
 =======================
-<!---
-<div style="text-align: justify">
-My main scientific interest –the study of variable stellar populations– requires a multi-epoch and multi-band photometry. I have therefore gained an extensive experience proposing, preparing, and executing observations with different instruments and telescopes. I am particularly interested on time domain Astronomy.
-<p></p>
-</div>
--->
-
 * PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44 more.
-
 * Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i). 
-
-* Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph),  DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
-
+* Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph), DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
 * More than 200 observing nights at CTIO (2017-2021) as part of the DECam Science Support Team, giving DECam support in assisting observers and also helping during Engineering nights. 
-
 * Since September 2021, observer in 21 queue nights at Gemini North observing with the following instruments: GMOS-N (optical imager, long-slit, MOS, IFU), NIRI (NIR imager), NIFS (NIR IFU), and GNIRS.
 
 
 Leadership
 ===========
-  
 * Science coordinator for the DELVE-WIDE group within the DELVE survey
 * Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group
 * Organiser of the Gemini North Journal Club
@@ -132,7 +120,6 @@ Leadership
 
 Professional Service
 =====================
-
 * Internal Scientific Referee in the Milky Way Working Group of the Dark Energy Survey (DES) Collaboration. 
 * Scientific Referee in the AAS, A&A, MNRAS journals.
 * SOC member of the *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
@@ -152,7 +139,6 @@ Professional Service
 
 Mentoring 
 =========
-
 * Ph.D. student co-advisor. Joseph Mullen, Iowa State University, USA. Project: *Metallicity and Period-Luminosity relations of Galactic RR Lyrae stars from Optical and Infrared Light Curves*. 2019-2023. Main advisor: Dr. Massimo Marengo.
 
 * Undergraduate student co-advisor. Xavier Tablit, University of Hawai'i, Hilo, USA (Akamai student at Gemini Observatory). Project: *A Brute Force Strategy for Cataloging Members of Open Clusters*. June-July 2021. Main advisor: Dr. André-Nicolas Chené.
