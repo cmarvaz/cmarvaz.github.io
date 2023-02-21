@@ -18,8 +18,8 @@ Education
 * B.S. in Physics at Universidad de Extremadura (Spain), Jul 2012
 
 
-Work Experience
-======
+Professional Experience
+======================
 * Sep 2021 - today: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
   * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff. Journal Club organizer.
 
@@ -29,6 +29,12 @@ Work Experience
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Project: Resolved stellar population to study the potential of multi-conjugate adaptive optics
   * Advisor: Dr. G. Fiorentino
+
+
+Awards and grants
+==================
+* *AURA Science Award 2022*, in recognition of an outstanding research on pulsating variable stars in
+diverse satellite galaxies of the Milky Way
 
 * Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at Instituto de Astrofísica de Canarias (Spain)
   * Thesis: Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars 
@@ -63,7 +69,10 @@ Skills
 
 Main Science Interests
 =======================
-stars: variables: pulating stars: RR Lyrae, Cepheids, Miras, delta Scuti – galaxies: evolution, stellar content – star clusters – Local Group
+* stars: variables: pulating stars: RR Lyrae, Cepheids, Miras, delta Scuti 
+* galaxies: evolution, stellar content
+* star clusters 
+* Local Group
 
 <!--
 Publications
