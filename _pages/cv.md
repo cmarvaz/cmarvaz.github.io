@@ -101,7 +101,7 @@ Listener
 
 Observational Expertise
 =======================
-* PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44 more.
+* PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44.
 * Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i). 
 * Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph), DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
 * More than 200 observing nights at CTIO (2017-2021) as part of the DECam Science Support Team, giving DECam support in assisting observers and also helping during Engineering nights. 
