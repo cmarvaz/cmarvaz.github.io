@@ -76,7 +76,7 @@ Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined
 | Cen I | 20.35 ± 0.03 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract">Martínez-Vázquez et al. (2021c)</a> |
 
 <div style="text-align: justify">
-The distance moduli obtained to the M31 dwarf satellites were essential for determining their star formation histories in <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...837..102S/abstract">Skillman et al. (2017)</a>.
+The distance moduli obtained to the M31 dwarf satellites and Eri II were essential for determining their star formation histories in <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...837..102S/abstract">Skillman et al. (2017)</a> and  href="https://ui.adsabs.harvard.edu/abs/2021ApJ...909..192G/abstract">Gallart et al. (2021)</a>, repectively.
 <p></p>
 </div>
  
