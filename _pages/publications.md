@@ -43,7 +43,7 @@ First Author Publications
 <br>Martínez-Vázquez, C. E., Monelli, M., Cassisi, S., et al. 2021, MNRAS, 508, 1064
 
 * [*Tracing the Early Chemical Evolution of Local Group Dwarf Galaxies Using RR Lyrae Stars.*](https://ui.adsabs.harvard.edu/abs/2021ASPC..529..235M/abstract)
-<br>Martinez-Vazquez, C. E., 2021, Astronomical Society of the Pacific, Conference Series, Vol. 529, p.235
+<br>Martinez-Vazquez, C. E., 2021, Astronomical Society of the Pacific Conference Series, Vol. 529, p.235
 
 * [*Short period variability in the globular cluster NGC 419 and the SMC field.*](https://ui.adsabs.harvard.edu/abs/2021AJ....161..120M/abstract)
 <br>Martínez-Vázquez, C. E., Salinas, R. and Vivas, A. K., 2021, AJ, 161, 120
