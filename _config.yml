@@ -306,4 +306,6 @@ compress_html:
 
 # theme: jekyll-theme-cayman
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+
+theme: beautiful-jekyll
