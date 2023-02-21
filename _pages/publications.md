@@ -31,10 +31,23 @@ See all my publications <a href="https://ui.adsabs.harvard.edu/search/q=%20%20au
 First Author Publications
 =========================
 
-(Updated on October, 2020)
+(Updated on February, 2023)
 
-* [*Short period variability in the globular cluster NGC 419 and the SMC field.*](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract)
-Martínez-Vázquez, C. E., Salinas, R. and Vivas, A. K., 2020, arXiv:2010.02220, submitted to AJ
+* [*A Segmented Period-Luminosity Relation for Nearby Extragalactic Delta Scuti Stars
+.*](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..25M/abstract)
+Martínez-Vázquez, C. E., Salinas, R., Vivas, A. K. and Catelan, M. 2022, ApJ Letters, 940, L25
+
+* [*RR Lyrae Stars in the Newly Discovered Ultra-faint Dwarf Galaxy Centaurus I.*](https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract)
+Martínez-Vázquez, C. E., Cerny, W., Vivas A. K., et al. 2021, AJ, 162, 253
+
+* [*Variable stars in Local Group galaxies - V. The fast and early evolution of the low-mass Eridanus II dSph galaxy.*](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract)
+Martínez-Vázquez, C. E., Monelli, M., Cassisi, S., et al. 2021, MNRAS, 508, 1064
+
+* [*Tracing the Early Chemical Evolution of Local Group Dwarf Galaxies Using RR Lyrae Stars.*](https://ui.adsabs.harvard.edu/abs/2021ASPC..529..235M/abstract)
+Martinez-Vazquez, C. E., RR Lyrae/Cepheid 2019: Frontiers of Classical Pulsators. ASP Conference Series, Vol. 529, Proceedings of a conference held (13-18 October 2019) at Cloudcroft, New Mexico, USA. Edited by Karen Kinemuchi, Catherine Lovekin, Hilding Neilson, and Kathy Vivas. San Francisco: Astronomical Society of the Pacific, 2021, p.235
+
+* [*Short period variability in the globular cluster NGC 419 and the SMC field.*](https://ui.adsabs.harvard.edu/abs/2021AJ....161..120M/abstract)
+Martínez-Vázquez, C. E., Salinas, R. and Vivas, A. K., 2021, AJ, 161, 120
 
 * [*RR Lyrae Stars in Ultra-faint and Ultra-diffuse Dwarf Milky Way Companions.*](https://ui.adsabs.harvard.edu/abs/2020Mirro...1....9M/abstract)
 Martínez-Vázquez, Vivas, A. K. and Walker, A. R., 2020, NOIRLab The Mirror, Volume 1, p. 9-11
@@ -45,11 +58,14 @@ Martínez-Vázquez, C. E., Vivas, A. K., Gurevich, M., et al. (DES Collaboration
 * [*The ISLAnds Project. III. Variable Stars in Six Andromeda Dwarf Spheroidal Galaxies.*](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract)
 Martínez-Vázquez, C. E., Monelli, M., Bernard, E. J., et al. 2017, ApJ, 850, 137
 
+* [*Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars.*](https://ui.adsabs.harvard.edu/abs/2016PhDT.......483M/abstract)
+Martínez-Vázquez, C. E., PhD Thesis, Universidad de La Laguna, November 2016
+
 * [*Variable stars in Local Group Galaxies - II. Sculptor dSph.*](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract)
 Martínez-Vázquez, C. E., Stetson, P. B., Monelli, M., et al. 2016, MNRAS, 462, 4349
 
 * [*Probing the early chemical evolution of the Sculptor dSph with purely old stellar tracers.*](https://ui.adsabs.harvard.edu/abs/2016MNRAS.461L..41M/abstract)
-Martínez-Vázquez, C. E., Monelli, M., Gallart, C., et al. 2016, MNRAS, 461, L41
+Martínez-Vázquez, C. E., Monelli, M., Gallart, C., et al. 2016, MNRAS Letters, 461, L41
 
 * [*A new Phi_31-period-metallicity relation for RR Lyrae stars.*](https://ui.adsabs.harvard.edu/abs/2016CoKon.105...53M/abstract)
 Martinez-Vazquez, C. E., Monelli, M., Bono, G. et al. 2016, Communications from the Konkoly Observatory, Vol. 105, p. 53-56
