@@ -5,9 +5,16 @@ permalink: /outreach/
 author_profile: true
 ---
 
-(Updated on October, 2020)
+(Updated on February, 2023)
 
-<ul>
+<ul> 
+  
+ <li> <p> Member of <em>Journey through the Universe 2023</em> organized by the Gemini Observatory in Hilo, Hawai'i. </p> </li>
+    
+ <li> <p> Volunteer at the 6th annual Christmas in the Park light show at Lili'uokalani Gardens in Hilo (Hawai'i) on December 23, 2022 to represent the Maunakea Observatories. </p> </li>
+   
+  <li> <p> Member of <em>Shadow the Scientist</em> initiative at the Gemini Observatory in Hawai'i. </p> </li>
+
   <li> <p> Talk <em>CTIO-4m Blanco Telescope. More than 43 years observing the sky at CTIO</em> on the Total Solar Eclipse day (July 2, 2019). The Nobel Prize Kip Thorne attended to this talk. </p> </li>
 
   <li> <p> Talk <em>Women in Astronomy</em> in the event "De la oscuridad a la luz, Charla de Mujeres Astrónomas" held at Plaza de Armas (La Serena, Chile) on 21 de Junio de 2019 organised by Sección de la Mujer y Equidad de Género. </p> </li>
