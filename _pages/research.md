@@ -16,7 +16,7 @@ To the date I have been involved in several projects that search for variable st
 
 * Sculptor ([**Martínez-Vázquez** et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
 
-* And VI, NGC 185, NGC 147 ([Monelli et al. 2017 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
+* And VI, NGC 185, NGC 147 ([Monelli et al. 2017, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
 
 * NGC 5824 ([Walker, Andreuzzi, **Martínez-Vázquez** et al. 2017](https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
 
@@ -34,18 +34,18 @@ To the date I have been involved in several projects that search for variable st
 
 * Centaurus I ([**Martínez-Vázquez** et al. 2021c](https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract))
 
-* VV124 and KKr25 ([Neeley et al. 2021 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract)
+* VV124 and KKr25 ([Neeley et al. 2021, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract)
 
 * Antlia II ([Vivas, **Martínez-Vázquez**, Walker, et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract))
 
-* Fornax ([Braga et al. 2022 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5368B/abstract))
+* Fornax ([Braga et al. 2022, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5368B/abstract))
 
 
 And also in big surveys:
 
-* RR Lyrae stars in DES ([Stringer et al. 2021 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2019AJ....158...16S/abstract); [Stringer, Drlica-Wagner, Macri, **Martínez-Vázquez**, et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..109S/abstract))
+* RR Lyrae stars in DES ([Stringer et al. 2021, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2019AJ....158...16S/abstract); [Stringer, Drlica-Wagner, Macri, **Martínez-Vázquez**, et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..109S/abstract))
 
-* Field RR Lyrae as Galactic Probes ([Crestani et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...20C/abstract); [Crestani et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...10C/abstract); [Fabrizio et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..118F/abstract); [Braga et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)(**Martínez-Vázquez included))
+* Field RR Lyrae as Galactic Probes ([Crestani et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...20C/abstract); [Crestani et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...10C/abstract); [Fabrizio et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..118F/abstract); [Braga et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract); **Martínez-Vázquez included**)
 
 
 <div style="text-align: justify">
@@ -87,13 +87,15 @@ Sculptor has been proved to be a gold mine in terms of its early star formation 
 <p></p>
 </div>
 
+<img src="/images/scl_FeH.png" alt="" width="800"/>
+
 <p></p>
 <div style="text-align: justify">
 Eridanus II, the only ultra-faint dawrf galaxy discovered lying close to the MW virial radius, is another interest case in this regard. In <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract">Martínez-Vázquez et al. (2021b)</a>, we obtained photometric metallicities for their RR Lyrae stars that fitted nicely to horizontal branch synthetic models. Similar to what is found in larger dwarf galaxies such as Sculptor – and in agreement with an outside-in galaxy formation scenario –, we noticed that the more metal-rich RRLs have greater central concentration than the more metal-poor RRLs. This is remarkable in such a faint dwarf galaxy with an apparently single and extremely short (< 1 Gyr) star formation burst (Simon et al. 2021; Gallart et al. 2021)
 <p></p>
 </div>
 
-<img src="/images/scl_FeH.png" alt="" width="800"/>
+<img src="/images/eri2_FeH.png" alt="" width="800"/>
 
 ## Comparing the old population in different environments
 <p></p>
@@ -150,4 +152,4 @@ Delta Scuti stars are short period main-sequence pulsating variable stars and ha
 <p></p> 
 </div>
 
-<img src="/images/segmended_PL_dSct.png" alt="" width="800"/>
+<img src="/images/segmended_PL_dSct.png" alt="" width="500"/>
