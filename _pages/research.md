@@ -14,38 +14,38 @@ To the date I have been involved in several projects that search for variable st
 <p></p>
 </div>
 
-* Sculptor ([**Martínez-Vázquez** et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
+* Sculptor ([Martínez-Vázquez et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
 
-* And VI, NGC 185, NGC 147 ([Monelli et al. 2017, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
+* And VI, NGC 185, NGC 147 ([Monelli et al. 2017, Martínez-Vázquez included](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
 
-* NGC 5824 ([Walker, Andreuzzi, **Martínez-Vázquez** et al. 2017](https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
+* NGC 5824 ([Walker, Andreuzzi, Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
 
-* And I, And II, And III, And XV, And XVI, And XXVIII ([**Martínez-Vázquez et al. 2017**](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
+* And I, And II, And III, And XV, And XVI, And XXVIII ([Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
 
-* Crater II ([Monelli, Walker, **Martínez-Vázquez et al. 2018**](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, **Martínez-Vázquez** et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
+* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, **Martínez-Vázquez** et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
 
-* Grus I, Kim 2, Phoenix II, Grus II ([**Martínez-Vázquez** et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
+* Grus I, Kim 2, Phoenix II, Grus II ([Martínez-Vázquez et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
 
-* Several ultra-faint dwarfs ([Vivas, **Martínez-Vázquez** & Walker, 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) 
+* Several ultra-faint dwarfs ([Vivas, Martínez-Vázquez & Walker, 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) 
 
-* NGC 419 ([**Martínez-Vázquez**, Salinas & Vivas, 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
+* NGC 419 ([Martínez-Vázquez, Salinas & Vivas, 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
 
-* Eridanus II ([**Martínez-Vázquez** et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract))
+* Eridanus II ([Martínez-Vázquez et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract))
 
-* Centaurus I ([**Martínez-Vázquez** et al. 2021c](https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract))
+* Centaurus I ([Martínez-Vázquez et al. 2021c](https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract))
 
-* VV124 and KKr25 ([Neeley et al. 2021, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract)
+* VV124 and KKr25 ([Neeley et al. 2021, Martínez-Vázquez included](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract)
 
-* Antlia II ([Vivas, **Martínez-Vázquez**, Walker, et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract))
+* Antlia II ([Vivas, Martínez-Vázquez, Walker, et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract))
 
-* Fornax ([Braga et al. 2022, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5368B/abstract))
+* Fornax ([Braga et al. 2022, Martínez-Vázquez included](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5368B/abstract))
 
 
 And also in big surveys:
 
-* RR Lyrae stars in DES ([Stringer et al. 2021, **Martínez-Vázquez included**](https://ui.adsabs.harvard.edu/abs/2019AJ....158...16S/abstract); [Stringer, Drlica-Wagner, Macri, **Martínez-Vázquez**, et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..109S/abstract))
+* RR Lyrae stars in DES ([Stringer et al. 2021, Martínez-Vázquez included](https://ui.adsabs.harvard.edu/abs/2019AJ....158...16S/abstract); [Stringer, Drlica-Wagner, Macri, Martínez-Vázquez, et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..109S/abstract))
 
-* Field RR Lyrae as Galactic Probes ([Crestani et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...20C/abstract); [Crestani et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...10C/abstract); [Fabrizio et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..118F/abstract); [Braga et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract); **Martínez-Vázquez included**)
+* Field RR Lyrae as Galactic Probes ([Crestani et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...20C/abstract); [Crestani et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...10C/abstract); [Fabrizio et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..118F/abstract); [Braga et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract); [Martínez-Vázquez included]())
 
 
 <div style="text-align: justify">
