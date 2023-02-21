@@ -55,6 +55,10 @@ Skills
   * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
 * Astronomical software:
   * IRAF, Aladin, DS9, TOPCAT, STILTS, DAOPHOT, ALLSTAR, ALLFRME, DAOMATCH, DAOMASTER, SExtractor, DRAGONS
+* Data Reduction:
+  * Pre-reduction of imaging and long-slit spectra with IRAF/PyRAF and DRAGONS
+  * PSF photomtery with DAOPHOT/ALLSTAR/ALLFRAME, including AO imaging (GeMS/GSAOI)
+  * Spectroscopic long-slit reduction with IRAF and echelle with OPERA
 
 
 Main Science Interests
@@ -120,9 +124,9 @@ Professional Service
 * Scientific Referee in the AAS, A&A, MNRAS journals.
 * SOC member of the *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
 * SOC member of *the Joint Observatories Kavli Science Forum in Chile*. Santiago, Chile (April, 25-29, 2022).
-* Session Chair of the session *Galaxy \& Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
+* Session Chair of the session *Galaxy & Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
 * Chambliss judge for the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
-* Session Chair of the conference *DECam at 10 years -- Looking Back, Looking Forward*. Tucson, Arizona (Sep 12-14, 2022).
+* Session Chair of the conference *DECam at 10 years - Looking Back, Looking Forward*. Tucson, Arizona (Sep 12-14, 2022).
 * Session Chair of the conference *Gemini Observatory Science Meeting 2022*. Seoul, South Korea (Jul 26-29, 2022).
 * Session Chair of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (May 21-22, 2018).
 * LOC of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (21-22 May 2018).
