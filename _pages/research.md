@@ -14,21 +14,38 @@ To the date I have been involved in several projects that search for variable st
 <p></p>
 </div>
 
-* Sculptor ([Martínez-Vázquez et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
+* Sculptor ([**Martínez-Vázquez** et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4349M/abstract))
 
-* And VI, NGC 185, NGC 147 ([Monelli et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
+* And VI, NGC 185, NGC 147 ([Monelli et al. 2017 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2017ApJ...842...60M/abstract))
 
-* NGC 5824 ([Walker, Andreuzzi, Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
+* NGC 5824 ([Walker, Andreuzzi, **Martínez-Vázquez** et al. 2017](https://ui.adsabs.harvard.edu/abs/2017AJ....154....8W/abstract))
 
-* And I, And II, And III, And XV, And XVI, And XXVIII ([Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
+* And I, And II, And III, And XV, And XVI, And XXVIII ([**Martínez-Vázquez et al. 2017**](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
 
-* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, Martínez-Vázquez et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
+* Crater II ([Monelli, Walker, **Martínez-Vázquez et al. 2018**](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, **Martínez-Vázquez** et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
 
-* Grus I, Kim 2, Phoenix II, Grus II ([Martínez-Vázquez et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
+* Grus I, Kim 2, Phoenix II, Grus II ([**Martínez-Vázquez** et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
 
-* Several ultra-faint dwarfs ([Vivas, Martínez-Vázquez & Walker, 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) 
+* Several ultra-faint dwarfs ([Vivas, **Martínez-Vázquez** & Walker, 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract)) 
 
-* NGC 419 ([Martínez-Vázquez, Salinas & Vivas, 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
+* NGC 419 ([**Martínez-Vázquez**, Salinas & Vivas, 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv201002220M/abstract))
+
+* Eridanus II ([**Martínez-Vázquez** et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract))
+
+* Centaurus I ([**Martínez-Vázquez** et al. 2021c](https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract))
+
+* VV124 and KKr25 ([Neeley et al. 2021 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract)
+
+* Antlia II ([Vivas, **Martínez-Vázquez**, Walker, et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract))
+
+* Fornax ([Braga et al. 2022 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5368B/abstract))
+
+
+And also in big surveys:
+
+* RR Lyrae stars in DES ([Stringer et al. 2021 (**Martínez-Vázquez included)**](https://ui.adsabs.harvard.edu/abs/2019AJ....158...16S/abstract); [Stringer, Drlica-Wagner, Macri, **Martínez-Vázquez**, et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..109S/abstract))
+
+* Field RR Lyrae as Galactic Probes ([Crestani et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...20C/abstract); [Crestani et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...10C/abstract); [Fabrizio et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..118F/abstract); [Braga et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)(**Martínez-Vázquez included))
 
 
 <div style="text-align: justify">
@@ -55,7 +72,8 @@ Since RR Lyrae stars are radial pulsating variable stars, they obey well-defined
 | Grus I | 20.51 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
 | Phoenix II | 20.01 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
 | Grus II | 18.71 ± 0.10 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract">Martínez-Vázquez et al. (2019)</a> |
-
+| Eri II | 22.84 ± 0.05 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract">Martínez-Vázquez et al. (2021b)</a> |
+| Cen I | 20.35 ± 0.03 | Period-Luminosity | <a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract">Martínez-Vázquez et al. (2021c)</a> |
 
 <div style="text-align: justify">
 The distance moduli obtained to the M31 dwarf satellites were essential for determining their star formation histories in <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...837..102S/abstract">Skillman et al. (2017)</a>.
@@ -66,6 +84,12 @@ The distance moduli obtained to the M31 dwarf satellites were essential for dete
 <p></p>
 <div style="text-align: justify">
 Sculptor has been proved to be a gold mine in terms of its early star formation and chemical enrichment. Tolstoy et al. (2004) show that this galaxy has two RGB population with different kinematics and metallicities. In <a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.461L..41M/abstract">Martínez-Vázquez et al. (2016a)</a>, we derive the metallicity distribution of the RR Lyrae stars in Sculptor and notice that there is a metallicity gradient, showing that Sculptor experienced a fast chemical evolution at its early epochs. We compare the metallicity distribution of the RR Lyrae (old population) with the RGB (age-mixed population) available in the literature. The results of this analysis suggest that star formation in the center of Sculptor lasted substantially longer than in its outer parts, thus constraining the timescales for the outside-in evolution of this galaxy.
+<p></p>
+</div>
+
+<p></p>
+<div style="text-align: justify">
+Eridanus II, the only ultra-faint dawrf galaxy discovered lying close to the MW virial radius, is another interest case in this regard. In <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1064M/abstract">Martínez-Vázquez et al. (2021b)</a>, we obtained photometric metallicities for their RR Lyrae stars that fitted nicely to horizontal branch synthetic models. Similar to what is found in larger dwarf galaxies such as Sculptor – and in agreement with an outside-in galaxy formation scenario –, we noticed that the more metal-rich RRLs have greater central concentration than the more metal-poor RRLs. This is remarkable in such a faint dwarf galaxy with an apparently single and extremely short (< 1 Gyr) star formation burst (Simon et al. 2021; Gallart et al. 2021)
 <p></p>
 </div>
 
@@ -119,3 +143,11 @@ We find that the contribution of delta Scuti into the broadening of the main-seq
 
 <img src="/images/ngc419_dsct.png" alt="" width="800"/>
 
+## A new and segmented period-luminosity relation for delta Scuti stars
+<p></p>
+<div style="text-align: justify">
+Delta Scuti stars are short period main-sequence pulsating variable stars and have been shown to follow a period-luminosity relation in the visible, thus being potentially useful distance indicators. Their period-luminosity dependency had always been described by a linear relation (Nemec et al. 1994; McNamara 2011; Fiorentino et al. 2015; Ziaali et al. 2019; Jayasinghe et al. 2020; Barac et al. 2022); however, when studying ∼4000 extragalactic delta Scuti stars from the Magellanic Clouds and a few other Milky Way dwarf satellite galaxies in <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..25M/abstract">Martínez-Vázquez et al. (2022)</a>, we noticed a non-linear behavior in the period-luminosity relation of delta Scuti stars. The best fit to the period-luminosity plane is given by a piecewise linear relation with a break at log P = -1.03 ± 0.01 (or 0.093 ± 0.002 days). Geometric or depth effects in the Large Magellanic Clouds, metallicity dependence, or different pulsation modes are discarded as possible causes of this segmented relation seen in nearby extragalactic delta Scuti stars. Although the origin of the segmented relation with a break at ~0.09 days remains unexplained, the behavior has proven to be not spurious, visible not only in extragalactic but in Galactic fields as well (De Ridder et al. 2022).
+<p></p> 
+</div>
+
+<img src="/images/segmended_PL_dSct.png" alt="" width="800"/>
