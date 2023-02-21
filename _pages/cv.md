@@ -54,7 +54,7 @@ Skills
 * Programming Languages:
   * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
 * Astronomical software:
-  * IRAF, Aladin, DS9, TOPCAT, STILTS, DAOPHOT, ALLSTAR, ALLFRME, DAOMATCH, DAOMASTER, SExtractor, DRAGONS
+  * IRAF, Aladin, DS9, TOPCAT, STILTS, DAOPHOT, ALLSTAR, ALLFRME, DAOMATCH, DAOMASTER, SExtractor, DRAGONS, OPERA
 * Data Reduction:
   * Pre-reduction of imaging and long-slit spectra with IRAF/PyRAF and DRAGONS
   * PSF photomtery with DAOPHOT/ALLSTAR/ALLFRAME, including AO imaging (GeMS/GSAOI)
