@@ -119,7 +119,6 @@ In addition, from the single epoch DECam data we obatined high quality light cur
 <img src="/images/cra2_cmd.png" alt="" width="400"/>
 
 <div style="text-align: justify"> In the case of Antlia II, also using multi-epoch DECam photometry, in <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract">Vivas, Martínez-Vázquez, Walker et al. (2022)</a>, we reached well below the horizontal branch and found more than three hundred RR Lyrae stars over the full search area of the galaxy, suggesting its large and extended nature. Using these RR Lyrae stars, we measured an average heliocentric distance (124 ± 5 kpc) and a distance gradient of −2.72 kpc/deg along the semimajor axis of Antlia II. Thus, the SE side of the galxy is ∼13 kpc more distant than the NW. This elongation along the line of sight is likely due to the ongoing tidal disruption of the galaxy and in agreement with the disruption model of Antlia II developed by Ji et al. (2021).
- 
 </div>
 
 <img src="/images/ant2_gradient.png" alt="" width="500"/>
