@@ -2,6 +2,10 @@
 title: <font face = "Economica" size = "10" style= "bold">Research</font>
 permalink: /research/
 author_profile: true
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 <div style="text-align: justify">
