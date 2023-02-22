@@ -2,10 +2,6 @@
 title: <font face = "Economica" size = "10" style= "bold">Research</font>
 permalink: /research/
 author_profile: true
-
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
 
 <div style="text-align: justify">
@@ -113,7 +109,7 @@ In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract">Mart
 ## Crater II and Antlia II, the firsts ultra-diffuse Milky Way satellites detected
 <p></p>
 <div style="text-align: justify">
-Crater II and Antlia II are impressively large, comparable to classical dwarfs like Sculptor or Fornax, but their surface brightness is significatively small (31 mag arcsec$^{-2}$). Using DECam data, we produce in <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4121W/abstract">Walker, Martínez-Vázquez et al. (2019)</a> the first deep color-magnitude diagram of Crater II that reaches well below the main sequence turn-off and shows that Crater II is an old system with no intermediate age or young stars. The subgiant branch clearly splits in two, showing two burst events of star-formation in its very early epochs. The isochrones indicate a mean age of 12.5 Gyr for the main event and a mean age of 10.5 Gyr for the brighter subgiant branch. With such multiple star formation events, Crater II shows similarity to more massive dwarfs that have intermediate age populations. However, for Crater II, there was early quenching of the star formation and no intermediate age or younger stars are present.
+Crater II and Antlia II are impressively large, comparable to classical dwarfs like Sculptor or Fornax, but their surface brightness is significatively small (> 31 mag arcsec$^{-2}$). Using DECam data, we produce in <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4121W/abstract">Walker, Martínez-Vázquez et al. (2019)</a> the first deep color-magnitude diagram of Crater II that reaches well below the main sequence turn-off and shows that Crater II is an old system with no intermediate age or young stars. The subgiant branch clearly splits in two, showing two burst events of star-formation in its very early epochs. The isochrones indicate a mean age of 12.5 Gyr for the main event and a mean age of 10.5 Gyr for the brighter subgiant branch. With such multiple star formation events, Crater II shows similarity to more massive dwarfs that have intermediate age populations. However, for Crater II, there was early quenching of the star formation and no intermediate age or younger stars are present.
 </div>
 
 <div style="text-align: justify">
@@ -122,7 +118,7 @@ In addition, from the single epoch DECam data we obatined high quality light cur
 
 <img src="/images/cra2_cmd.png" alt="" width="400"/>
 
-<div style="text-align: justify"> In the case of Antlia II, also using multi-epoch DECam photometry, in <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract">Vivas, Martínez-Vázquez, Walker et al. (2022)</a>, we reached well below the horizontal branch and found more than three hundred RR Lyrae stars over the full search area of the galaxy, suggesting its large and extended nature. Using these RR Lyrae stars, we measured an average heliocentric distance (124 ± 5 kpc) and a distance gradient of −2.72 kpc/deg along the semimajor axis of Antlia II. Thus, the SE side of the galxy is ∼13 kpc more distant than the NW. This elongation along the line of sight is likely due to the ongoing tidal disruption of the galaxy and in agreement with the disruption model of Antlia II developed by Ji et al. (2021).
+<div style="text-align: justify"> In the case of Antlia II, also using multi-epoch DECam photometry, in <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract">Vivas, Martínez-Vázquez, Walker et al. (2022)</a>, we reached well below the horizontal branch and found more than three hundred RR Lyrae stars over the full search area of the galaxy, suggesting its large and extended nature. Using these RR Lyrae stars, we measured an average heliocentric distance (124 ± 5 kpc) and a distance gradient of −2.72 kpc/deg along the semimajor axis of Antlia II, measuring that the SE side of the galxy is ∼13 kpc more distant than the NW. This elongation along the line of sight is likely due to the ongoing tidal disruption of the galaxy and in agreement with the disruption model of Antlia II developed by Ji et al. (2021).
 </div>
 
 <img src="/images/ant2_gradient.png" alt="" width="500"/>
