@@ -26,7 +26,7 @@ To the date I have been involved in several projects that search for variable st
 
 * And I, And II, And III, And XV, And XVI, And XXVIII ([Martínez-Vázquez et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..137M/abstract))
 
-* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, **Martínez-Vázquez** et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
+* Crater II ([Monelli, Walker, Martínez-Vázquez et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4279M/abstract); [Vivas, Walker, Martínez-Vázquez et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1061V/abstract))
 
 * Grus I, Kim 2, Phoenix II, Grus II ([Martínez-Vázquez et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2183M/abstract))
 
