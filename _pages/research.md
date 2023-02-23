@@ -37,7 +37,7 @@ To the date I have been involved in several projects that search for variable st
 
 * Centaurus I ([Martínez-Vázquez et al. 2021c](https://ui.adsabs.harvard.edu/abs/2021AJ....162..253M/abstract))
 
-* VV124 and KKr25 ([Neeley et al. 2021, Martínez-Vázquez included](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract)
+* VV124 and KKr25 ([Neeley et al. 2021, Martínez-Vázquez included](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..152N/abstract))
 
 * Antlia II ([Vivas, Martínez-Vázquez, Walker, et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...78V/abstract))
 
