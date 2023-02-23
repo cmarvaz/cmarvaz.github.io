@@ -1,9 +1,9 @@
 ---
 title: <font face = "Economica" size = "10" style= "bold">Research</font>
-date: 2023-02-22
+<!-- date: 2023-02-22 -->
 permalink: /research/
 author_profile: true
-excerpt_separator: <!--more-->
+<!-- excerpt_separator: <!--more--> -->
 toc: true
 ---
 
