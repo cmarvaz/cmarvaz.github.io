@@ -5,7 +5,11 @@ permalink: /research/
 author_profile: true
 <!-- excerpt_separator: <!--more--> -->
 toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
+
+# Main research
 
 <div style="text-align: justify">
 My research interests are primarily focused on the use of variable stars as stellar population tracers to study the formation and evolution of dwarf galaxies in the Local Group and also to understand the formation of our own galaxy, the Milky Way.
