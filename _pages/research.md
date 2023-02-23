@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 excerpt_separator: <!--more-->
 toc: true
-header: 
-  og_image: "images/foo-bar-identity-th.jpg"
-tags:
-  - website
-  - git
-  - github
 ---
 
 <div style="text-align: justify">
