@@ -20,7 +20,10 @@ Education
 
 Professional Experience
 ======================
-* Sep 2021 - today: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
+* Jun 2023 - today: Assistant Astronomer at Gemini Observatory/NSF's NOIRLab (Hawai'i)
+  * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and IGRINS-2 scientific support staff, Queue Coordinator, DDT review committee member, Journal Club organizer.
+
+* Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
   * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff. Journal Club organizer.
 
 * Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
