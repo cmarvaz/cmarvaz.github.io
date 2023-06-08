@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Updated on February, 2023)
+(Updated on June, 2023)
 
 Education
 ======
