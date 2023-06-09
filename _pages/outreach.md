@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: <font face = "Economica" size = "10" style= "bold">Outreach</font>
+title: <font face = "Economica" size = "10" style= "bold">Outreach/DEI activities</font>
 permalink: /outreach/
 author_profile: true
 ---
 
-(Updated on February, 2023)
+(Updated on June, 2023)
 
 <ul> 
+ <li> <p> Member of <em>Astroday 2023</em> at the Prince Kukio Plaza in Hilo, Hawai'i on May 6, 2023 to represent Gemini Observatory. </p> </li>
+    
+ <li> <p> Informal discussion with Gender Minorities at Steward Observatory (GEMS). </p> </li>
   
  <li> <p> Member of <em>Journey through the Universe 2023</em> organized by the Gemini Observatory in Hilo, Hawai'i. </p> </li>
     
