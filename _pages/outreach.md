@@ -12,7 +12,7 @@ author_profile: true
     
  <li> <p> Informal discussion with Gender Minorities at Steward Observatory (GEMS) on May 4, 2023. </p> </li>
   
- <li> <p> Member of <em>Journey through the Universe 2023</em> organized by the Gemini Observatory in Hilo, Hawai'i. </p> </li>
+ <li> <p> Member of <em>Journey through the Universe 2023</em> organized by the Gemini Observatory in Hilo (Hawai'i) on February-March, 2023. </p> </li>
     
  <li> <p> Volunteer at the 6th annual Christmas in the Park light show at Lili'uokalani Gardens in Hilo (Hawai'i) on December 23, 2022 to represent the Maunakea Observatories. </p> </li>
    
