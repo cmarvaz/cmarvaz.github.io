@@ -8,7 +8,7 @@ author_profile: true
 (Updated on June, 2023)
 
 <ul> 
- <li> <p> Member of <em>Astroday 2023</em> at the Prince Kukio Plaza in Hilo, Hawai'i on May 6, 2023 to represent Gemini Observatory. </p> </li>
+ <li> <p> Member of <em>Astroday 2023</em> at the Prince Kukio Plaza in Hilo (Hawai'i) on May 6, 2023 to represent Gemini Observatory. </p> </li>
     
  <li> <p> Informal discussion with Gender Minorities at Steward Observatory (GEMS). </p> </li>
   
