@@ -15,8 +15,6 @@ author_profile: true
  <li> <p> Member of <em>Journey through the Universe 2023</em> organized by the Gemini Observatory in Hilo (Hawai'i) on February-March, 2023. </p> </li>
     
  <li> <p> Volunteer at the 6th annual Christmas in the Park light show at Lili'uokalani Gardens in Hilo (Hawai'i) on December 23, 2022 to represent the Maunakea Observatories. </p> </li>
-   
-  <li> <p> Member of <em>Shadow the Scientist</em> initiative at the Gemini Observatory in Hawai'i. </p> </li>
 
   <li> <p> Talk <em>CTIO-4m Blanco Telescope. More than 43 years observing the sky at CTIO</em> on the Total Solar Eclipse day (July 2, 2019). The Nobel Prize Kip Thorne attended to this talk. </p> </li>
 
