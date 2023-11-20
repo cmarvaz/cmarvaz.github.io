@@ -20,7 +20,7 @@ I am Assistant Astronomer at <a href="https://www.gemini.edu/"> Gemini Observato
 </div>
 
 <div style="text-align: justify"> 
-Since September 2021, I am part of the <a href="http://www.gemini.edu/instrumentation/gmos">GMOS</a>, <a href="https://www.gemini.edu/instrumentation/graces">GRACES</a>, <a href="https://www.gemini.edu/instrumentation/niri">NIRI</a>, and <a href="https://www.gemini.edu/instrumentation/future-instruments/igrins-2">IGRINS-2</a> support staff at Gemini, and during my postdoc at <a href="https://noirlab.edu/public/programs/ctio/">CTIO</a> I was part of the scientific support team of <a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam">DECam</a> at the CTIO-4m Blanco telescope.
+I am currently in the Operations team at Gemini North helping with phase II, observations, queue coordination and instruments checkouts. I am support staff for the following instruments: <a href="http://www.gemini.edu/instrumentation/gmos">GMOS</a>, <a href="https://www.gemini.edu/instrumentation/graces">GRACES</a>, <a href="https://www.gemini.edu/instrumentation/niri">NIRI</a> and <a href="https://www.gemini.edu/instrumentation/maroon-x">MAROON-X</a>. Previously, during my postdoc at <a href="https://noirlab.edu/public/programs/ctio/">CTIO</a>, I was part of the scientific support team of <a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam">DECam</a> at the CTIO-4m Blanco telescope.
 <p></p>
 </div>
 
