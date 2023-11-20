@@ -21,7 +21,7 @@ Education
 Professional Experience
 ======================
 * Jun 2023 - present: Assistant Astronomer at Gemini Observatory/NSF's NOIRLab (Hawai'i)
-  * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and IGRINS-2 scientific support staff, Queue Coordinator, DDT review committee member, Journal Club organizer.
+  * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, DDT review committee member, Journal Club organizer.
 
 * Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
   * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff. Journal Club organizer.
@@ -122,9 +122,9 @@ Observational Expertise
 
 Leadership
 ===========
-* Science coordinator for the DELVE-WIDE group within the DELVE survey
-* Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group
-* Organiser of the Gemini North Journal Club
+* Science coordinator for the DELVE-WIDE group within the DELVE survey since 2021.
+* Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group, 2021-2023.
+* Organiser of the Gemini North Journal Club since 2022.
 * Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile), 2019-2021.
 * Colloquium convenor at CTIO, 2018-2021.
 
@@ -151,6 +151,9 @@ Professional Service
 
 Mentoring 
 =========
+
+* Undergraduate student main advisor. Jennifer Nakano, University of Hawai'i Manoa, USA (Akamai student at Gemini Observatory). Project: *Machine Learning to create a training sample to classify variable stars in the Magellanic Clouds*. June-Aug 2023 and Oct 2023-Apr 2024.
+ 
 * Ph.D. student co-advisor. Joseph Mullen, Iowa State University, USA. Project: *Metallicity and Period-Luminosity relations of Galactic RR Lyrae stars from Optical and Infrared Light Curves*. 2019-2023. Main advisor: Dr. Massimo Marengo.
 
 * Undergraduate student co-advisor. Xavier Tablit, University of Hawai'i, Hilo, USA (Akamai student at Gemini Observatory). Project: *A Brute Force Strategy for Cataloging Members of Open Clusters*. June-July 2021. Main advisor: Dr. André-Nicolas Chené.
