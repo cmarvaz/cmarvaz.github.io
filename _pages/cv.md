@@ -20,16 +20,16 @@ Education
 
 Professional Experience
 ======================
-* March 2023 - present: Assistant Astronomer at Community Science and Data Center/NSF NOIRLab (Hawai'i)
+* March 2025 - present: Assistant Astronomer at Community Science and Data Center/NSF NOIRLab (USA)
   * 50% functional duties / 50% Science. Service: US National Gemini Office.
     
-* Jun 2023 - March 2023: Assistant Astronomer at Gemini Observatory/NSF NOIRLab (Hawai'i)
+* Jun 2023 - March 2025: Assistant Astronomer at Gemini Observatory/NSF NOIRLab (USA)
   * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, Observer, Gemini Director Time Review Board member, Fast Turnaround team member, Journal Club organizer.
 
-* Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF NOIRLab (Hawai'i)
+* Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF NOIRLab (USA)
   * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff, Observer, Journal Club organizer.
 
-* Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
+* Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF NOIRLab (Chile)
   * 50% functional duties / 50% Science. Duties: DECam support scientist, Colloquium convenor.
 
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
@@ -57,12 +57,14 @@ diverse satellite galaxies of the Milky Way
 
 Skills
 ======
+<!--
 * Spoken languages: 
   * Spanish (mother tongue)
   * English (fluent)
   * Italian (good)
 * Operating systems:
   * Unix, Linux, MacOS, Window 
+-->
 * Programming Languages:
   * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
 * Astronomical software:
@@ -125,9 +127,9 @@ Observational Expertise
 
 Leadership
 ===========
-* Science coordinator for the DELVE-WIDE group within the DELVE survey since 2021.
+* Science coordinator for the DELVE-WIDE group within the DELVE survey, 2021-2024.
 * Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group, 2021-2023.
-* Organiser of the Gemini North Journal Club since 2022.
+* Organiser of the Gemini North Journal Club, 2022-2024.
 * Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile), 2019-2021.
 * Colloquium convenor at CTIO, 2018-2021.
 
@@ -137,6 +139,7 @@ Professional Service
 =====================
 * Internal Scientific Referee in the Milky Way Working Group of the Dark Energy Survey (DES) Collaboration. 
 * Scientific Referee in the AAS, A&A, MNRAS journals.
+* SOC member of the *RR Lyrae and Cepheid conference 2024*. Marrakesh, Morocco (Nov 23-30, 2024).
 * SOC member of the *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
 * SOC member of *the Joint Observatories Kavli Science Forum in Chile*. Santiago, Chile (April, 25-29, 2022).
 * Session Chair of the session *Galaxy & Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
@@ -145,10 +148,10 @@ Professional Service
 * Session Chair of the conference *Gemini Observatory Science Meeting 2022*. Seoul, South Korea (Jul 26-29, 2022).
 * Session Chair of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (May 21-22, 2018).
 * LOC of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (21-22 May 2018).
-* Memeber of the Science Fellow hiring committee panel 2021.
-* Queue coordinator at Gemini Observatory (since December 2022).
-* GMOS, GRACES, NIRI, IGRINS-2 support staff at the Gemini Observatory (devoting 50\% of my time from October 2021 to the present).
-* DECam support member (devoting 50% of my time from October 2017 to September 2021)
+* Member of the Science Fellow hiring committee panel in 2021.
+* Queue coordinator at Gemini Observatory (2023-2025).
+* GMOS, GRACES, NIRI, Maroon-X support staff at the Gemini Observatory (2021-2025).
+* DECam support member (2017-2021).
 * Technical reviewer of DECam observing proposals.
 
 
