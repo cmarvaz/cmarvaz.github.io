@@ -55,7 +55,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: "https://twitter.com/usngo"
   username               : &twitter
 facebook:
   username               :
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Clara E. <br/> Martínez-Vázquez"
   avatar           : "cemv2023.png"
-  bio              : "Assistant Astronomer <br/> at Gemini North. <br/> <p> GMOS, GRACES, NIRI, and MAROON-X support staff. <p/>"
-  location         : "Gemini Observatory"
-  employer         : "NSF’s NOIRLab/AURA"
+  bio              : "Assistant Astronomer <br/> <a href="https://noirlab.edu/science/"> NSF NOIRLab </a> <br/> <p> US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo"> US NGO </a>) <p/>"
+  location         : "Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/"> CSDC </a>)"
+  employer         : "NSF NOIRLab/AURA"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
