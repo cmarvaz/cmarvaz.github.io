@@ -31,7 +31,10 @@ See all my publications <a href="https://ui.adsabs.harvard.edu/search/q=%20%20au
 First Author Publications
 =========================
 
-(Updated on February, 2023)
+(Updated on March, 2025)
+
+* [*Pulsating Stars in Local Group Dwarf Galaxies.*] (https://ui.adsabs.harvard.edu/abs/2023MmSAI..94d..88M/abstract)
+<br> Martínez-Vázquez, C. E. 2023, Memorie della Società Astronomica Italiana (MemSAIt), Vol. 94, p. 88
 
 * [*A Segmented Period-Luminosity Relation for Nearby Extragalactic Delta Scuti Stars.*](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..25M/abstract)
 <br>Martínez-Vázquez, C. E., Salinas, R., Vivas, A. K. and Catelan, M. 2022, ApJ Letters, 940, L25
