@@ -33,7 +33,7 @@ First Author Publications
 
 (Updated on March, 2025)
 
-* [*Pulsating Stars in Local Group Dwarf Galaxies.*] (https://ui.adsabs.harvard.edu/abs/2023MmSAI..94d..88M/abstract)
+* [*Pulsating Stars in Local Group Dwarf Galaxies.*](https://ui.adsabs.harvard.edu/abs/2023MmSAI..94d..88M/abstract)
 <br> Martínez-Vázquez, C. E. 2023, Memorie della Società Astronomica Italiana (MemSAIt), Vol. 94, p. 88
 
 * [*A Segmented Period-Luminosity Relation for Nearby Extragalactic Delta Scuti Stars.*](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..25M/abstract)
