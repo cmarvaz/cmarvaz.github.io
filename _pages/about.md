@@ -15,7 +15,7 @@ redirect_from:
  -->
  
 <div style="text-align: justify"> 
-I am Assistant Astronomer at the NSF National Optical-Infrared Astronomy Research Laboratory (<a href="https://noirlab.edu/science/"> NSF NOIRLab </a> ). I work in the US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo"> US NGO </a>), which is a group within the Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/"> CSDC </a>) at the NOIRLab.  
+I am Assistant Astronomer at the NSF National Optical-Infrared Astronomy Research Laboratory (<a href="https://noirlab.edu/science/">NSF NOIRLab</a> ). I work in the US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo">US NGO</a>), which is a group within the Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/">CSDC</a>) at the NOIRLab.  
 <p></p>
 </div>
 
@@ -25,7 +25,7 @@ My scientific interests are in stellar population, galaxy formation and evolutio
 </div>
 
 <div style="text-align: justify"> 
-Previously, I was a staff of the Operations team at <a href="https://www.gemini.edu/"> Gemini Observatory </a> helping with phase II, observations, queue coordination, and instruments checks (being directly involved with: <a href="http://www.gemini.edu/instrumentation/gmos">GMOS</a>, <a href="https://www.gemini.edu/instrumentation/graces">GRACES</a>, <a href="https://www.gemini.edu/instrumentation/niri">NIRI</a> and <a href="https://www.gemini.edu/instrumentation/maroon-x">MAROON-X</a>), and member of the Fast Turnaround (<a href="https://www.gemini.edu/observing/phase-i/ft" > FT </a>) team and of the Gemini Director Time Review Board. I was also postdoc at <a href="https://noirlab.edu/public/programs/ctio/">CTIO</a> and part of the scientific support team of the Dark Energy Camera (<a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam"> DECam</a>) at the <a href="https://noirlab.edu/science/programs/ctio/telescopes/victor-blanco-4m-telescope"> CTIO-4m Blanco telescope </a>.
+Previously, I was a staff of the Operations team at <a href="https://www.gemini.edu/"> Gemini Observatory </a> helping with phase II, observations, queue coordination, and instruments checks (being directly involved with: <a href="http://www.gemini.edu/instrumentation/gmos">GMOS</a>, <a href="https://www.gemini.edu/instrumentation/graces">GRACES</a>, <a href="https://www.gemini.edu/instrumentation/niri">NIRI</a> and <a href="https://www.gemini.edu/instrumentation/maroon-x">MAROON-X</a>), and member of the Fast Turnaround (<a href="https://www.gemini.edu/observing/phase-i/ft">FT</a>) team and of the Gemini Director Time Review Board. I was also postdoc at <a href="https://noirlab.edu/public/programs/ctio/">CTIO</a> and part of the scientific support team of the Dark Energy Camera (<a href="http://www.ctio.noao.edu/noao/content/Dark-Energy-Camera-DECam"> DECam</a>) at the <a href="https://noirlab.edu/science/programs/ctio/telescopes/victor-blanco-4m-telescope">CTIO-4m Blanco telescope</a>.
 <p></p>
 </div>
 
