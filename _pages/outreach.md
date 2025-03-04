@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <font face = "Economica" size = "10" style= "bold">Outreach/DEI activities</font>
+title: <font face = "Economica" size = "10" style= "bold"> STEM activities</font>
 permalink: /outreach/
 author_profile: true
 ---
