@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Clara E. <br/> Martínez-Vázquez"
   avatar           : "cemv2023.png"
-  bio              : "Assistant Astronomer <br/> <a href="https://noirlab.edu/science/"> NSF NOIRLab </a> <br/> <p> US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo"> US NGO </a>) <p/>"
-  location         : "Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/"> CSDC </a>)"
+  bio              : "Assistant Astronomer <br> NSF NOIRLab </a> <br/> <p> US National Gemini Office (US NGO) <br> Community Science and Data Center (CSDC) </br> <p/>"
+  location         : 
   employer         : "NSF NOIRLab/AURA"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
