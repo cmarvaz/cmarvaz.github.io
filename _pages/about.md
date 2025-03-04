@@ -15,7 +15,7 @@ redirect_from:
  -->
  
 <div style="text-align: justify"> 
-I am Assistant Astronomer at the NSF National Optical-Infrared Astronomy Research Laboratory (<a href="https://noirlab.edu/science/">NSF NOIRLab</a>). I work in the US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo">US NGO</a>), which is a group within the Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/">CSDC</a>) at the NOIRLab.  
+I am an Assistant Astronomer at the NSF National Optical-Infrared Astronomy Research Laboratory (<a href="https://noirlab.edu/science/">NSF NOIRLab</a>). I work in the US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo">US NGO</a>), which is a group within the Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/">CSDC</a>) at the NOIRLab.  
 <p></p>
 </div>
 
