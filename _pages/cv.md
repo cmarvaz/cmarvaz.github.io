@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Updated on June, 2023)
+(Updated on March, 2025)
 
 Education
 ======
@@ -20,11 +20,14 @@ Education
 
 Professional Experience
 ======================
-* Jun 2023 - present: Assistant Astronomer at Gemini Observatory/NSF's NOIRLab (Hawai'i)
-  * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, DDT review committee member, Journal Club organizer.
+* March 2023 - present: Assistant Astronomer at Community Science and Data Center/NSF NOIRLab (Hawai'i)
+  * 50% functional duties / 50% Science. Service: US National Gemini Office.
+    
+* Jun 2023 - March 2023: Assistant Astronomer at Gemini Observatory/NSF NOIRLab (Hawai'i)
+  * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, Observer, Gemini Director Time Review Board member, Fast Turnaround team member, Journal Club organizer.
 
-* Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF's NOIRLab (Hawai'i)
-  * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff. Journal Club organizer.
+* Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF NOIRLab (Hawai'i)
+  * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff, Observer, Journal Club organizer.
 
 * Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF's NOIRLab (Chile)
   * 50% functional duties / 50% Science. Duties: DECam support scientist, Colloquium convenor.
