@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Clara E. Martínez-Vázquez"
 title_separator          : "-"
-name                     : &name "Clara E. Martínez-Vázquez"
+name                     : &name 
 description              : &description "personal description"
 url                      : "https://cmarvaz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
