@@ -55,8 +55,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: "https://twitter.com/usngo"
-  username               : &twitter
+twitter: 
+  username               : &twitter "usngo"
 facebook:
   username               :
   app_id                 :
