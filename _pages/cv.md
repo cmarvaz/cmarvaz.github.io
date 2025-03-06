@@ -44,7 +44,7 @@ diverse satellite galaxies of the Milky Way
 
 * Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at Instituto de Astrofísica de Canarias (Spain)
   * Thesis: Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars 
-  * Supervisors: Dr. M. Monelli. Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
+  * Supervisor: Dr. M. Monelli. Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
 
 * Jul 2012 - Aug 2013: Summer student grant at Instituto de Astrofísica de Canarias (Spain)
   * Project: Chemical Composition of Open Clusters: Variations of the CN and CH band strengths 
