@@ -21,16 +21,16 @@ Education
 Professional Experience
 ======================
 * March 2025 - present: Assistant Astronomer at Community Science and Data Center/NSF NOIRLab (USA)
-  * 50% functional duties / 50% Science. Service: US National Gemini Office.
+  * 50% Research / 50% functional duties. Service: US National Gemini Office.
     
 * Jun 2023 - March 2025: Assistant Astronomer at Gemini Observatory/NSF NOIRLab (USA)
-  * 50% functional duties / 50% Science. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, Observer, Gemini Director Time Review Board member, Fast Turnaround team member, Journal Club organizer.
+  * 50% Research / 50% functional duties. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, Observer, Gemini Director Time Review Board member, Fast Turnaround team member.
 
 * Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF NOIRLab (USA)
-  * 50% functional duties / 50% Science. Duties: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff, Observer, Journal Club organizer.
+  * 50% Research / 50% functional duties. Service: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff, Observer.
 
 * Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF NOIRLab (Chile)
-  * 50% functional duties / 50% Science. Duties: DECam support scientist, Colloquium convenor.
+  * 50% Research / 50% functional duties. Service: DECam support scientist.
 
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Project: Resolved stellar population to study the potential of multi-conjugate adaptive optics
@@ -44,7 +44,7 @@ diverse satellite galaxies of the Milky Way
 
 * Sept 2013 - Sept 2016: Ph.D. studentship (“residente”) at Instituto de Astrofísica de Canarias (Spain)
   * Thesis: Tracing the early chemical evolution of Local Group dwarf galaxies using RR Lyrae stars 
-  * Supervisor: Dr. M. Monelli. Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
+  * Supervisors: Dr. M. Monelli. Co-supervisors: Dra. C. Gallart and Dr. E. J. Bernard
 
 * Jul 2012 - Aug 2013: Summer student grant at Instituto de Astrofísica de Canarias (Spain)
   * Project: Chemical Composition of Open Clusters: Variations of the CN and CH band strengths 
@@ -54,17 +54,16 @@ diverse satellite galaxies of the Milky Way
   * Project: Influence of a interstitial fluid over the transport coefficients of a dilute granular gas 
   * Supervisor: Prof. V. Garzó
 
-
+<!--
 Skills
 ======
-<!--
+
 * Spoken languages: 
   * Spanish (mother tongue)
   * English (fluent)
   * Italian (good)
 * Operating systems:
   * Unix, Linux, MacOS, Window 
--->
 * Programming Languages:
   * IDL, Python, Octave/Matlab, SuperMongo, Fortran, Shell, ADQL, SQL
 * Astronomical software:
@@ -81,7 +80,7 @@ Main Science Interests
 * galaxies: evolution, stellar content
 * star clusters 
 * Local Group
-
+-->
 <!--
 Publications
 ======
@@ -115,50 +114,57 @@ Listener
 * *Workshop ADONI 2017: The Adaptive Optics in Astronomy in Italy*, 10-12 Apr 2017, Padova (Italy)
 -->
 
-
 Observational Expertise
 =======================
-* PI of 14 proposals with more than 400 hours in different telescopes and CoI of 44.
-* Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i). 
+* PI of 23 proposals with more than 550 hours in different telescopes and CoI of more than 65.
+* Experience in both photometric and spectroscopic observing runs in different observatories: ORM (La Palma, Spain), Teide (Spain), CTIO (Chile), Cerro Pachón (Chile), and Maunakea Observatories (Hawai'i).
+<!--
 * Personally executed 130 classic observing nights with different imagers and spectrographs: WFC@INT(camera), CAMELOT@IAC80 (camera), FIES@NOT (echelle spectrograph), DECam@CTIO-4m (camera), Goodman@SOAR (imaging spectrograph), SPARTAN@SOAR (Near-IR camera), SOI@SOAR (camera), HDS@Subaru (echelle spectrograph).
 * More than 200 observing nights at CTIO (2017-2021) as part of the DECam Science Support Team, giving DECam support in assisting observers and also helping during Engineering nights. 
 * Since September 2021, observer in 21 queue nights at Gemini North with the following instruments: GMOS-N (optical imager, long-slit, MOS, IFU), NIRI (NIR imager), NIFS (NIR IFU), and GNIRS.
-
+-->
 
 Leadership
 ===========
 * Science coordinator for the DELVE-WIDE group within the DELVE survey, 2021-2024.
 * Science coordinator for the subgroup of Milky Way Satellites within the DES survey in the Milky Way Working group, 2021-2023.
-* Organiser of the Gemini North Journal Club, 2022-2024.
+* Organiser of the Gemini North Journal Club, 2021-2023.
 * Organiser of Science Coffee/Tea, AURA South (CTIO + Gemini), La Serena (Chile), 2019-2021.
 * Colloquium convenor at CTIO, 2018-2021.
-
-
 
 Professional Service
 =====================
 * Internal Scientific Referee in the Milky Way Working Group of the Dark Energy Survey (DES) Collaboration. 
 * Scientific Referee in the AAS, A&A, MNRAS journals.
-* SOC member of the *RR Lyrae and Cepheid conference 2024*. Marrakesh, Morocco (Nov 23-30, 2024).
-* SOC member of the *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
-* SOC member of *the Joint Observatories Kavli Science Forum in Chile*. Santiago, Chile (April, 25-29, 2022).
-* Session Chair of the session *Galaxy & Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
+* Science Assistant Editor for Memorie della Società Astronomica Italiana (MemSAIt).
+* Member of the Gemini Director's Discretionary Time review committee (2023-present).
+* Member of the NOIRLab TAC Galactic panel.
+* SOC member:
+  * *RR Lyrae and Cepheid conference 2024*. Marrakesh, Morocco (Nov 23-30, 2024).
+  * *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
+  * *Joint Observatories Kavli Science Forum in Chile*. Santiago, Chile (April, 25-29, 2022).
+* LOC member:
+  * *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (21-22 May 2018).
+* Session Chair:
+  * *Galaxy & Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
+  * *DECam at 10 years - Looking Back, Looking Forward*. Tucson, Arizona (Sep 12-14, 2022).
+  * *Gemini Observatory Science Meeting 2022*. Seoul, South Korea (Jul 26-29, 2022).
+  * *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (May 21-22, 2018).
 * Chambliss judge for the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
-* Session Chair of the conference *DECam at 10 years - Looking Back, Looking Forward*. Tucson, Arizona (Sep 12-14, 2022).
-* Session Chair of the conference *Gemini Observatory Science Meeting 2022*. Seoul, South Korea (Jul 26-29, 2022).
-* Session Chair of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (May 21-22, 2018).
-* LOC of the *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (21-22 May 2018).
-* Member of the Science Fellow hiring committee panel in 2021.
+* Hiring committee member for:
+  * Science Intern position at NOIRLab in 2023
+  * Science Fellow position at Gemini North in 2023
+  * Research and Science Services Director at NOIRLab in 2024
 * Queue coordinator at Gemini Observatory (2023-2025).
-* GMOS, GRACES, NIRI, Maroon-X support staff at the Gemini Observatory (2021-2025).
-* DECam support member (2017-2021).
-* Technical reviewer of DECam observing proposals.
-
+* GMOS, GRACES, NIRI, MAROON-X support staff at the Gemini Observatory (2021-2025).
+* DECam support staff at CTIO (2017-2021).
+* Technical reviewer observing proposals at CTIO and Gemini.
 
 Mentoring 
 =========
+* Undergraduate student co-advisor. Clark Acohido, University of Hawai'i Manoa, USA (Akamai student at Gemini Observatory). Project: *Replicating IRAF Functions in Python*. June--Aug 2024. Main advisor: Pablo Martín-Ravelo.
 
-* Undergraduate student main advisor. Jennifer Nakano, University of Hawai'i Manoa, USA (Akamai student at Gemini Observatory). Project: *Machine Learning to create a training sample to classify variable stars in the Magellanic Clouds*. June-Aug 2023 and Oct 2023-Apr 2024.
+* Undergraduate student main advisor. Jennifer Nakano, University of Hawai'i Manoa, USA (Akamai student at Gemini Observatory). Project: *Machine Learning to create a training sample to classify variable stars in the Magellanic Clouds*. June-Aug 2023 and Oct 2023-July 2024.
  
 * Ph.D. student co-advisor. Joseph Mullen, Iowa State University, USA. Project: *Metallicity and Period-Luminosity relations of Galactic RR Lyrae stars from Optical and Infrared Light Curves*. 2019-2023. Main advisor: Dr. Massimo Marengo.
 
