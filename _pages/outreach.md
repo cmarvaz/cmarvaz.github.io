@@ -5,16 +5,20 @@ permalink: /outreach/
 author_profile: true
 ---
 
-(Updated on June, 2023)
+(Updated on March, 2025)
 
 <ul> 
+ <li> <p> Educator/Ambassador in the annual <em>Journey through the Universe 2023</em> organized by the Gemini Observatory  in Hilo (Hawai'i) on February 2023, 2024, 2025. </p> </li>
+
+ <li> <p> Educator at the activity table in the \textit{Tanabata Block Party} in Hilo (Hawai'i) on August 2024. </p> </li>
+
+ <li> <p> Educator in the \textit{Journey through the Universe} in Hilo (Hawai'i) on February 2024. </p> </li>
+
  <li> <p> Member of <em>Astroday 2023</em> at the Prince Kukio Plaza in Hilo (Hawai'i) on May 6, 2023 to represent Gemini Observatory. </p> </li>
     
  <li> <p> Informal discussion with Gender Minorities at Steward Observatory (GEMS) on May 4, 2023. </p> </li>
-  
- <li> <p> Member of <em>Journey through the Universe 2023</em> organized by the Gemini Observatory in Hilo (Hawai'i) on February-March, 2023. </p> </li>
-    
- <li> <p> Volunteer at the 6th annual Christmas in the Park light show at Lili'uokalani Gardens in Hilo (Hawai'i) on December 23, 2022 to represent the Maunakea Observatories. </p> </li>
+      
+ <li> <p> Volunteer at the <em>6th annual Christmas in the Park light show</em> at Lili'uokalani Gardens in Hilo (Hawai'i) on December 23, 2022 to represent the Maunakea Observatories. </p> </li>
 
   <li> <p> Talk <em>CTIO-4m Blanco Telescope. More than 43 years observing the sky at CTIO</em> on the Total Solar Eclipse day (July 2, 2019). The Nobel Prize Kip Thorne attended to this talk. </p> </li>
 
