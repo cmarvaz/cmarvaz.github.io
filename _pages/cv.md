@@ -21,16 +21,20 @@ Education
 Professional Experience
 ======================
 * March 2025 - present: Assistant Astronomer at Community Science and Data Center/NSF NOIRLab (USA)
-  * 50% Research / 50% functional duties. Service: US National Gemini Office.
+  * 50% Research / 50% functional duties.
+  * Service: US National Gemini Office.
     
 * Jun 2023 - March 2025: Assistant Astronomer at Gemini Observatory/NSF NOIRLab (USA)
-  * 50% Research / 50% functional duties. Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, Observer, Gemini Director Time Review Board member, Fast Turnaround team member.
+  * 50% Research / 50% functional duties.
+  * Service: GMOS, GRACES, NIRI, and MAROON-X scientific support staff, Queue Coordinator, Observer, Gemini Director Time Review Board member, Fast Turnaround team member.
 
 * Sep 2021 - Jun 2023: Science Fellow at Gemini Observatory/NSF NOIRLab (USA)
-  * 50% Research / 50% functional duties. Service: GMOS, GRACES, NIRI, IGRINS-2 scientific support staff, Observer.
+  * 50% Research / 50% functional duties.
+  * Service: GMOS, GRACES, NIRI, MAROON-X scientific support staff, Observer.
 
 * Oct 2017 - Sep 2021: Science Fellow at Cerro Tololo Inter-American Observatory/NSF NOIRLab (Chile)
-  * 50% Research / 50% functional duties. Service: DECam support scientist.
+  * 50% Research / 50% functional duties.
+  * Service: DECam support scientist.
 
 * Apr 2017 - Oct 2017: Postdoc Fellow at the INAF – Osservatorio Astronomico di Bologna (Italy)
   * Project: Resolved stellar population to study the potential of multi-conjugate adaptive optics
@@ -138,14 +142,19 @@ Professional Service
 * Scientific Referee in the AAS, A&A, MNRAS journals.
 * Science Assistant Editor for Memorie della Società Astronomica Italiana (MemSAIt).
 * Member of the Gemini Director's Discretionary Time review committee (2023-present).
-* Member of the NOIRLab TAC Galactic panel.
+* Member of the NOIRLab Time Allocation Committee (2023-present).
 * SOC member:
   * *RR Lyrae and Cepheid conference 2024*. Marrakesh, Morocco (Nov 23-30, 2024).
+  * *DELVE Collaboration meeting 2023*. Urbana-Champaign, Illinois (Oct 16-18, 2023).
   * *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
   * *Joint Observatories Kavli Science Forum in Chile*. Santiago, Chile (April, 25-29, 2022).
 * LOC member:
-  * *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (21-22 May 2018).
+  * *Windows on the Universe: Establishing the Infrastructure for a Collaborative Multi-messenger Ecosystem*.Tucson, Arizona (Oct 16-18, 2023).
+  * *DECam Community Science Workshop 2018: Science Highlights, Coming Opportunities, LSST Synergies*. Tucson, Arizona (May 21-22, 2018).
 * Session Chair:
+  * *RR Lyrae and Cepheid conference 2024*. Marrakesh, Morocco (Nov 23-30, 2024).
+  * *DELVE Collaboration meeting 2023*. Urbana-Champaign, Illinois (Oct 16-18, 2023).
+  * *DELVE Collaboration meeting 2022*. Tucson, Arizona (Sep 15-16, 2022).
   * *Galaxy & Cluster Population* in the 241st AAS Annual Meeting. Seattle, Washington (Jan 8-12, 2023).
   * *DECam at 10 years - Looking Back, Looking Forward*. Tucson, Arizona (Sep 12-14, 2022).
   * *Gemini Observatory Science Meeting 2022*. Seoul, South Korea (Jul 26-29, 2022).
