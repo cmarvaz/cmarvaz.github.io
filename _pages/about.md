@@ -15,12 +15,7 @@ redirect_from:
  -->
  
 <div style="text-align: justify"> 
-I am an Assistant Astronomer at the NSF National Optical-Infrared Astronomy Research Laboratory (<a href="https://noirlab.edu/science/">NSF NOIRLab</a>). I work in the US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo">US NGO</a>), which is a group within the Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/">CSDC</a>) at the NOIRLab.  
-<p></p>
-</div>
-
-<div style="text-align: justify"> 
-My scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti, Miras) in Local Group dwarf galaxies and globular clusters. My main research is focused, in particular, on the use of variable stars as standard candles and as probes of the evolution of Local Group galaxies.
+I am an Assistant Astronomer at the NSF National Optical-Infrared Astronomy Research Laboratory (<a href="https://noirlab.edu/science/">NSF NOIRLab</a>). I work in the US National Gemini Office (<a href="https://noirlab.edu/science/programs/csdc/usngo">US NGO</a>), which is a group within the Community Science and Data Center (<a href="https://noirlab.edu/science/programs/csdc/">CSDC</a>) at the NOIRLab. My scientific interests are in stellar population, galaxy formation and evolution, and time domain astronomy, specially in the study of pulsating variable stars (such as RR Lyrae, Cepheids, delta Scuti, Miras) in Local Group dwarf galaxies and globular clusters. My main research is focused, in particular, on the use of variable stars as standard candles and as probes of the evolution of Local Group galaxies.
 <p></p>
 </div>
 
